@@ -1,0 +1,15 @@
+Falling Velocity
+
+When an object is falling because of gravity, the following formula can be used to determine the velocity of the falling object at a specified time:
+		v = gt
+
+The variables in the formula are as follows: v is the velocity in meters per second, 
+					     g is 9.8, and t is the amount of time in seconds that the object has been falling. 
+
+Create an application that allows the user to enter the amount of time that an object has fallen, and then displays the distance that the object fell. 
+
+The application should have a function named FallingVelocity. 
+
+The FallingVelocity function should accept an object’s falling time (in seconds) as an argument. 
+
+The function should return the velocity (in meters per second) that the object has achieved during that time interval.

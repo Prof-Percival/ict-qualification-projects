@@ -1,0 +1,12 @@
+The WSU computer society is holding a competition for students to write a program for them. 
+The purpose of this program is to allow the user to enter 1, 2 or 3 for the program to do the following:
+
+If the user selects option 1:
+calculate the area of rectangle by requesting the user to accept the length and width of the rectangle using the formula length * width. 
+If option 2 is selected:
+calculate the area of a circle by requesting the user to accept the radius of the circle by using the formula 3.14* radius*radius. 
+Selecting 3 to calculate the area of a triangle by requesting the user to accept the base and height using the formula (base * height)/2. 
+
+Lastly, if any other option is entered besides the 1, 2 and 3 the program must display a message indicating that an invalid input has been made.
+
+Your program must display the appropriate message and the calculated area depending on the chosen code by the user.

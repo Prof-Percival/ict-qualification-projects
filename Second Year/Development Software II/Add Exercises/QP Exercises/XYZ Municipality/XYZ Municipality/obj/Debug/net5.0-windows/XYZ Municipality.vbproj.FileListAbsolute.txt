@@ -1,0 +1,19 @@
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\XYZ Municipality\XYZ Municipality\bin\Debug\net5.0-windows\XYZ Municipality.exe
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\XYZ Municipality\XYZ Municipality\bin\Debug\net5.0-windows\XYZ Municipality.deps.json
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\XYZ Municipality\XYZ Municipality\bin\Debug\net5.0-windows\XYZ Municipality.runtimeconfig.json
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\XYZ Municipality\XYZ Municipality\bin\Debug\net5.0-windows\XYZ Municipality.runtimeconfig.dev.json
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\XYZ Municipality\XYZ Municipality\bin\Debug\net5.0-windows\XYZ Municipality.dll
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\XYZ Municipality\XYZ Municipality\bin\Debug\net5.0-windows\ref\XYZ Municipality.dll
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\XYZ Municipality\XYZ Municipality\bin\Debug\net5.0-windows\XYZ Municipality.pdb
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\XYZ Municipality\XYZ Municipality\obj\Debug\net5.0-windows\XYZ Municipality.vbproj.AssemblyReference.cache
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\XYZ Municipality\XYZ Municipality\obj\Debug\net5.0-windows\XYZ_Municipality.frmCalculations.resources
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\XYZ Municipality\XYZ Municipality\obj\Debug\net5.0-windows\XYZ_Municipality.frmHome.resources
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\XYZ Municipality\XYZ Municipality\obj\Debug\net5.0-windows\XYZ Municipality.vbproj.GenerateResource.cache
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\XYZ Municipality\XYZ Municipality\obj\Debug\net5.0-windows\XYZ Municipality.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\XYZ Municipality\XYZ Municipality\obj\Debug\net5.0-windows\XYZ Municipality.AssemblyInfoInputs.cache
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\XYZ Municipality\XYZ Municipality\obj\Debug\net5.0-windows\XYZ Municipality.AssemblyInfo.vb
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\XYZ Municipality\XYZ Municipality\obj\Debug\net5.0-windows\XYZ Municipality.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\XYZ Municipality\XYZ Municipality\obj\Debug\net5.0-windows\XYZ Municipality.dll
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\XYZ Municipality\XYZ Municipality\obj\Debug\net5.0-windows\ref\XYZ Municipality.dll
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\XYZ Municipality\XYZ Municipality\obj\Debug\net5.0-windows\XYZ Municipality.pdb
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\XYZ Municipality\XYZ Municipality\obj\Debug\net5.0-windows\XYZ Municipality.genruntimeconfig.cache

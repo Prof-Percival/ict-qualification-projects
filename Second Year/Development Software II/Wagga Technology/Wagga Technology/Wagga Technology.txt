@@ -1,0 +1,41 @@
+A company called Wagga Technology repairs computer hardware. 
+
+They generally charge R200.00 per hour for labour for a simple job (type 1) or R300.00 per hour for a more complex job (type 2). 
+
+In addition to the labour charge, they also charge the client for the replacement parts needed. 
+
+Vat of 15% is added to the final amount the customer must pay.
+
+They want a program which will allow them to enter: 
+	- The customer’s name
+	- Job type (1 or 2)
+	- The number of hours (this will be an integer)
+	- The charge for the parts needed
+
+All input data should be accepted through textboxes. For each job, the program must calculate and display the total charged (including VAT). 
+
+The program must accumulate or count all required totals.
+
+When the form loads the program should do the following
+	All output textboxes must be set to read-only.
+ 
+When the user clicks on a calculate button the program should
+	- Call a separate Boolean function that takes customer name as parameter and validates the name contains alphabetic characters only.
+	- Validate the job type, is either 1 or 2
+	- Number of hours should be numeric and above zero
+
+If the data is not valid display an appropriate error message
+
+If the data is valid: 
+	- The program must also calculate and display in read-only textboxes the following (Accumulated Totals) with meaningful messages: 
+		I. The total charge for labour for type 1 jobs
+		II. The total hours for labour for type 2 jobs
+		III. The total charge for parts for all jobs
+		IV. The total VAT amount for all jobs
+		V. The total amount made by Wagga Technology for all repairs
+
+When a Next Order Button is clicked
+	- The program should call a general procedure that clear the customer’s name, job type and total
+
+When an Exit Button is clicked 
+	- The program should stop 

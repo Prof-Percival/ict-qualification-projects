@@ -1,0 +1,12 @@
+Student's Name: Christoph Percival
+
+Test 1 Score = 98,00%
+Test 2 Score = 85,00%
+Test 3 Score = 100,00%
+Test 4 Score = 75,00%
+Test 5 Score = 90,00%
+
+Average of the Five Test Scores = 89,60%
+
+====================================================================
+

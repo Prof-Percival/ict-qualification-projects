@@ -1,0 +1,14 @@
+Siya’s Flower Shops delivers flowers in East London. 
+The flower arrangements come in three sizes: small, medium and large. 
+
+The flowers cost:
+R50 for a small arrangement
+R70 for a medium arrangement
+R90 for a large arrangement. 
+
+There is also a delivery fee which is calculated at R10-00 per kilometer.
+
+Write a program which will ask the user to input the size of the arrangement wanted and the distance (in kilometers). 
+
+The program must then calculate and display the total the customer must pay. 
+(The user will input S for small, M for medium and L for large).

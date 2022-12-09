@@ -1,0 +1,18 @@
+E:\PROJECTS\DES25P0\Vusi Sishuba Taxi Fleet\Vusi Sishuba Taxi Fleet\bin\Debug\net5.0-windows\Vusi Sishuba Taxi Fleet.exe
+E:\PROJECTS\DES25P0\Vusi Sishuba Taxi Fleet\Vusi Sishuba Taxi Fleet\bin\Debug\net5.0-windows\Vusi Sishuba Taxi Fleet.deps.json
+E:\PROJECTS\DES25P0\Vusi Sishuba Taxi Fleet\Vusi Sishuba Taxi Fleet\bin\Debug\net5.0-windows\Vusi Sishuba Taxi Fleet.runtimeconfig.json
+E:\PROJECTS\DES25P0\Vusi Sishuba Taxi Fleet\Vusi Sishuba Taxi Fleet\bin\Debug\net5.0-windows\Vusi Sishuba Taxi Fleet.runtimeconfig.dev.json
+E:\PROJECTS\DES25P0\Vusi Sishuba Taxi Fleet\Vusi Sishuba Taxi Fleet\bin\Debug\net5.0-windows\Vusi Sishuba Taxi Fleet.dll
+E:\PROJECTS\DES25P0\Vusi Sishuba Taxi Fleet\Vusi Sishuba Taxi Fleet\bin\Debug\net5.0-windows\ref\Vusi Sishuba Taxi Fleet.dll
+E:\PROJECTS\DES25P0\Vusi Sishuba Taxi Fleet\Vusi Sishuba Taxi Fleet\bin\Debug\net5.0-windows\Vusi Sishuba Taxi Fleet.pdb
+E:\PROJECTS\DES25P0\Vusi Sishuba Taxi Fleet\Vusi Sishuba Taxi Fleet\obj\Debug\net5.0-windows\Vusi Sishuba Taxi Fleet.vbproj.AssemblyReference.cache
+E:\PROJECTS\DES25P0\Vusi Sishuba Taxi Fleet\Vusi Sishuba Taxi Fleet\obj\Debug\net5.0-windows\Vusi_Sishuba_Taxi_Fleet.Form1.resources
+E:\PROJECTS\DES25P0\Vusi Sishuba Taxi Fleet\Vusi Sishuba Taxi Fleet\obj\Debug\net5.0-windows\Vusi Sishuba Taxi Fleet.vbproj.GenerateResource.cache
+E:\PROJECTS\DES25P0\Vusi Sishuba Taxi Fleet\Vusi Sishuba Taxi Fleet\obj\Debug\net5.0-windows\Vusi Sishuba Taxi Fleet.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\DES25P0\Vusi Sishuba Taxi Fleet\Vusi Sishuba Taxi Fleet\obj\Debug\net5.0-windows\Vusi Sishuba Taxi Fleet.AssemblyInfoInputs.cache
+E:\PROJECTS\DES25P0\Vusi Sishuba Taxi Fleet\Vusi Sishuba Taxi Fleet\obj\Debug\net5.0-windows\Vusi Sishuba Taxi Fleet.AssemblyInfo.vb
+E:\PROJECTS\DES25P0\Vusi Sishuba Taxi Fleet\Vusi Sishuba Taxi Fleet\obj\Debug\net5.0-windows\Vusi Sishuba Taxi Fleet.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\DES25P0\Vusi Sishuba Taxi Fleet\Vusi Sishuba Taxi Fleet\obj\Debug\net5.0-windows\Vusi Sishuba Taxi Fleet.dll
+E:\PROJECTS\DES25P0\Vusi Sishuba Taxi Fleet\Vusi Sishuba Taxi Fleet\obj\Debug\net5.0-windows\ref\Vusi Sishuba Taxi Fleet.dll
+E:\PROJECTS\DES25P0\Vusi Sishuba Taxi Fleet\Vusi Sishuba Taxi Fleet\obj\Debug\net5.0-windows\Vusi Sishuba Taxi Fleet.pdb
+E:\PROJECTS\DES25P0\Vusi Sishuba Taxi Fleet\Vusi Sishuba Taxi Fleet\obj\Debug\net5.0-windows\Vusi Sishuba Taxi Fleet.genruntimeconfig.cache

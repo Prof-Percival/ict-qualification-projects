@@ -1,0 +1,18 @@
+E:\PROJECTS\DES25P0\Uncedo Taxi Association\Uncedo Taxi Association\bin\Debug\net5.0-windows\Uncedo Taxi Association.exe
+E:\PROJECTS\DES25P0\Uncedo Taxi Association\Uncedo Taxi Association\bin\Debug\net5.0-windows\Uncedo Taxi Association.deps.json
+E:\PROJECTS\DES25P0\Uncedo Taxi Association\Uncedo Taxi Association\bin\Debug\net5.0-windows\Uncedo Taxi Association.runtimeconfig.json
+E:\PROJECTS\DES25P0\Uncedo Taxi Association\Uncedo Taxi Association\bin\Debug\net5.0-windows\Uncedo Taxi Association.runtimeconfig.dev.json
+E:\PROJECTS\DES25P0\Uncedo Taxi Association\Uncedo Taxi Association\bin\Debug\net5.0-windows\Uncedo Taxi Association.dll
+E:\PROJECTS\DES25P0\Uncedo Taxi Association\Uncedo Taxi Association\bin\Debug\net5.0-windows\ref\Uncedo Taxi Association.dll
+E:\PROJECTS\DES25P0\Uncedo Taxi Association\Uncedo Taxi Association\bin\Debug\net5.0-windows\Uncedo Taxi Association.pdb
+E:\PROJECTS\DES25P0\Uncedo Taxi Association\Uncedo Taxi Association\obj\Debug\net5.0-windows\Uncedo Taxi Association.vbproj.AssemblyReference.cache
+E:\PROJECTS\DES25P0\Uncedo Taxi Association\Uncedo Taxi Association\obj\Debug\net5.0-windows\Uncedo_Taxi_Association.frmUncedoTaxiAssociation.resources
+E:\PROJECTS\DES25P0\Uncedo Taxi Association\Uncedo Taxi Association\obj\Debug\net5.0-windows\Uncedo Taxi Association.vbproj.GenerateResource.cache
+E:\PROJECTS\DES25P0\Uncedo Taxi Association\Uncedo Taxi Association\obj\Debug\net5.0-windows\Uncedo Taxi Association.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\DES25P0\Uncedo Taxi Association\Uncedo Taxi Association\obj\Debug\net5.0-windows\Uncedo Taxi Association.AssemblyInfoInputs.cache
+E:\PROJECTS\DES25P0\Uncedo Taxi Association\Uncedo Taxi Association\obj\Debug\net5.0-windows\Uncedo Taxi Association.AssemblyInfo.vb
+E:\PROJECTS\DES25P0\Uncedo Taxi Association\Uncedo Taxi Association\obj\Debug\net5.0-windows\Uncedo Taxi Association.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\DES25P0\Uncedo Taxi Association\Uncedo Taxi Association\obj\Debug\net5.0-windows\Uncedo Taxi Association.dll
+E:\PROJECTS\DES25P0\Uncedo Taxi Association\Uncedo Taxi Association\obj\Debug\net5.0-windows\ref\Uncedo Taxi Association.dll
+E:\PROJECTS\DES25P0\Uncedo Taxi Association\Uncedo Taxi Association\obj\Debug\net5.0-windows\Uncedo Taxi Association.pdb
+E:\PROJECTS\DES25P0\Uncedo Taxi Association\Uncedo Taxi Association\obj\Debug\net5.0-windows\Uncedo Taxi Association.genruntimeconfig.cache

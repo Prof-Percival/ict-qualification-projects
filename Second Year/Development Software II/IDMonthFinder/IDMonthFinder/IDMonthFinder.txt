@@ -1,0 +1,11 @@
+The 3rd and 4th characters of the South African id number indicate the month number that the person was born in. 
+
+There are 12 months in a year and each month has a name.
+
+Write the VB.Net code, including the header, for a sub procedure which must do the following:
+a. Receive a string variable which contains an id number as a parameter. (You can assume the Id number has already been trimmed).
+b. In a text box called txtMonth, display the name of the month (the English name) that the person was born in.
+
+Note: Use any Sub procedure name.
+
+Make sure that you declare all variables used inside your procedure.

@@ -1,0 +1,15 @@
+I:\PROJECTS\DES25P0\2021 Pract1\2021 Pract1\obj\Debug\netcoreapp3.1\2021 Pract1.vbprojAssemblyReference.cache
+I:\PROJECTS\DES25P0\2021 Pract1\2021 Pract1\obj\Debug\netcoreapp3.1\2021 Pract1.vbproj.GenerateResource.cache
+I:\PROJECTS\DES25P0\2021 Pract1\2021 Pract1\obj\Debug\netcoreapp3.1\2021 Pract1.AssemblyInfoInputs.cache
+I:\PROJECTS\DES25P0\2021 Pract1\2021 Pract1\obj\Debug\netcoreapp3.1\2021 Pract1.AssemblyInfo.vb
+I:\PROJECTS\DES25P0\2021 Pract1\2021 Pract1\obj\Debug\netcoreapp3.1\2021 Pract1.vbproj.CoreCompileInputs.cache
+I:\PROJECTS\DES25P0\2021 Pract1\2021 Pract1\obj\Debug\netcoreapp3.1\_2021_Pract1.frmDetailsApp.resources
+I:\PROJECTS\DES25P0\2021 Pract1\2021 Pract1\bin\Debug\netcoreapp3.1\2021 Pract1.exe
+I:\PROJECTS\DES25P0\2021 Pract1\2021 Pract1\bin\Debug\netcoreapp3.1\2021 Pract1.deps.json
+I:\PROJECTS\DES25P0\2021 Pract1\2021 Pract1\bin\Debug\netcoreapp3.1\2021 Pract1.runtimeconfig.json
+I:\PROJECTS\DES25P0\2021 Pract1\2021 Pract1\bin\Debug\netcoreapp3.1\2021 Pract1.runtimeconfig.dev.json
+I:\PROJECTS\DES25P0\2021 Pract1\2021 Pract1\bin\Debug\netcoreapp3.1\2021 Pract1.dll
+I:\PROJECTS\DES25P0\2021 Pract1\2021 Pract1\bin\Debug\netcoreapp3.1\2021 Pract1.pdb
+I:\PROJECTS\DES25P0\2021 Pract1\2021 Pract1\obj\Debug\netcoreapp3.1\2021 Pract1.dll
+I:\PROJECTS\DES25P0\2021 Pract1\2021 Pract1\obj\Debug\netcoreapp3.1\2021 Pract1.pdb
+I:\PROJECTS\DES25P0\2021 Pract1\2021 Pract1\obj\Debug\netcoreapp3.1\2021 Pract1.genruntimeconfig.cache

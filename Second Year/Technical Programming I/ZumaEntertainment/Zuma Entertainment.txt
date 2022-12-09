@@ -1,0 +1,13 @@
+Zuma Entertainment organized a jazz festival which was attended by 500 people. 
+
+The price of a ticket to the festival was determined according to the age table shown below:
+
+		Age 				Price
+	Less than 16 years 			R50
+	From 16 and not more than 55 years 	R55
+	More than 55 years 			R25
+
+Write a program that will accept the person’s age to determine how much they had to pay for the 
+concert ticket. 
+
+Your program should also determine and display the total amount the company made.

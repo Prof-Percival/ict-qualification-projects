@@ -1,0 +1,11 @@
+E:\PROJECTS\DES25P0\Standard Calculator\Standard Calculator\bin\Debug\Standard Calculator.exe
+E:\PROJECTS\DES25P0\Standard Calculator\Standard Calculator\bin\Debug\Standard Calculator.pdb
+E:\PROJECTS\DES25P0\Standard Calculator\Standard Calculator\bin\Debug\Standard Calculator.xml
+E:\PROJECTS\DES25P0\Standard Calculator\Standard Calculator\obj\Debug\Standard_Calculator.Form1.resources
+E:\PROJECTS\DES25P0\Standard Calculator\Standard Calculator\obj\Debug\Standard_Calculator.Resources.resources
+E:\PROJECTS\DES25P0\Standard Calculator\Standard Calculator\obj\Debug\Standard Calculator.vbproj.GenerateResource.cache
+E:\PROJECTS\DES25P0\Standard Calculator\Standard Calculator\obj\Debug\Standard Calculator.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\DES25P0\Standard Calculator\Standard Calculator\obj\Debug\Standard Calculator.exe
+E:\PROJECTS\DES25P0\Standard Calculator\Standard Calculator\obj\Debug\Standard Calculator.xml
+E:\PROJECTS\DES25P0\Standard Calculator\Standard Calculator\obj\Debug\Standard Calculator.pdb
+E:\PROJECTS\DES25P0\Standard Calculator\Standard Calculator\obj\Debug\Standard Calculator.vbproj.AssemblyReference.cache

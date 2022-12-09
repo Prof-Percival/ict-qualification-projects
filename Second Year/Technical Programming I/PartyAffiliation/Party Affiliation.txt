@@ -1,0 +1,4 @@
+Write Java statements that output;
+	- Democrat if the party affiliation code is 'D'
+	- Republican if the party affiliation code is 'R',
+	- Independent otherwise

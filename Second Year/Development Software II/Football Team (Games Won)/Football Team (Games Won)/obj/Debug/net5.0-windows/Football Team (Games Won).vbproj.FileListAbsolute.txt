@@ -1,0 +1,18 @@
+E:\PROJECTS\DES25P0\Football Team (Games Won)\Football Team (Games Won)\bin\Debug\net5.0-windows\Football Team (Games Won).exe
+E:\PROJECTS\DES25P0\Football Team (Games Won)\Football Team (Games Won)\bin\Debug\net5.0-windows\Football Team (Games Won).deps.json
+E:\PROJECTS\DES25P0\Football Team (Games Won)\Football Team (Games Won)\bin\Debug\net5.0-windows\Football Team (Games Won).runtimeconfig.json
+E:\PROJECTS\DES25P0\Football Team (Games Won)\Football Team (Games Won)\bin\Debug\net5.0-windows\Football Team (Games Won).runtimeconfig.dev.json
+E:\PROJECTS\DES25P0\Football Team (Games Won)\Football Team (Games Won)\bin\Debug\net5.0-windows\Football Team (Games Won).dll
+E:\PROJECTS\DES25P0\Football Team (Games Won)\Football Team (Games Won)\bin\Debug\net5.0-windows\ref\Football Team (Games Won).dll
+E:\PROJECTS\DES25P0\Football Team (Games Won)\Football Team (Games Won)\bin\Debug\net5.0-windows\Football Team (Games Won).pdb
+E:\PROJECTS\DES25P0\Football Team (Games Won)\Football Team (Games Won)\obj\Debug\net5.0-windows\Football Team (Games Won).vbproj.AssemblyReference.cache
+E:\PROJECTS\DES25P0\Football Team (Games Won)\Football Team (Games Won)\obj\Debug\net5.0-windows\Football_Team__Games_Won_.Form1.resources
+E:\PROJECTS\DES25P0\Football Team (Games Won)\Football Team (Games Won)\obj\Debug\net5.0-windows\Football Team (Games Won).vbproj.GenerateResource.cache
+E:\PROJECTS\DES25P0\Football Team (Games Won)\Football Team (Games Won)\obj\Debug\net5.0-windows\Football Team (Games Won).GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\DES25P0\Football Team (Games Won)\Football Team (Games Won)\obj\Debug\net5.0-windows\Football Team (Games Won).AssemblyInfoInputs.cache
+E:\PROJECTS\DES25P0\Football Team (Games Won)\Football Team (Games Won)\obj\Debug\net5.0-windows\Football Team (Games Won).AssemblyInfo.vb
+E:\PROJECTS\DES25P0\Football Team (Games Won)\Football Team (Games Won)\obj\Debug\net5.0-windows\Football Team (Games Won).vbproj.CoreCompileInputs.cache
+E:\PROJECTS\DES25P0\Football Team (Games Won)\Football Team (Games Won)\obj\Debug\net5.0-windows\Football Team (Games Won).dll
+E:\PROJECTS\DES25P0\Football Team (Games Won)\Football Team (Games Won)\obj\Debug\net5.0-windows\ref\Football Team (Games Won).dll
+E:\PROJECTS\DES25P0\Football Team (Games Won)\Football Team (Games Won)\obj\Debug\net5.0-windows\Football Team (Games Won).pdb
+E:\PROJECTS\DES25P0\Football Team (Games Won)\Football Team (Games Won)\obj\Debug\net5.0-windows\Football Team (Games Won).genruntimeconfig.cache

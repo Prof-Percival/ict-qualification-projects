@@ -1,0 +1,26 @@
+WSU Finance Department is giving loan to students for their study expenses. 
+
+The loan amount given is calculated using the following criteria. 
+	Course			Course Code	Loan Amount
+	Information Technology	       IT		Course Fee + 25% of Course Fee
+	Analytical Chemistry	       AC		Course Fee + 35% of Course Fee
+	Mechanical Engineering	       ME		10% of Course Fee + 5000
+	Electrical Engineering	       EE		5% of Course Fee + 10000
+
+The loan amount attracts an interest of 20%. 
+
+The total amount (loan amount plus the interest) has to be paid back in 6 equal instalments after the completion of their studies. 
+
+The program has to allow the user to enter:
+			- the course code
+			- course fee from the keyboard. 
+
+The program will then calculate and the student’s loan amount, interest, the final amount and instalments they have to pay until “XX” is entered to terminate the program. 
+
+At the end the program ought to display each:
+			- student’s course
+			- loan amount
+			- final amount
+			- interest
+			- instalment
+			- the overall total amount the Society will get back.

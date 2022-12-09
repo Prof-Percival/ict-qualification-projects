@@ -1,0 +1,40 @@
+						DIVISIBILITY TEST BY 3 AND 9
+
+Suppose that m and n are integers and m is nonzero. 
+Then m is called a divisor of n if n = mt for some integer t; that is, when m divides n, the remainder is 0.
+
+	Let n = ak ak-1 ak-2...a1 a0 be an integer. 
+	Let s = ak + ak-1 + ak-2 +...+a1 + a0 be the sum of the digits of n. 
+
+It is known that n is divisible by 3 and 9 if s is divisible by 3 and 9. 
+
+In other words, an integer is divisible by 3 and 9 if and only if the sum of its digits is divisible by 3 and 9.
+
+For example, suppose n = 27193257. Then, s = 2+7+1+9+3+2+5+7 = 36.
+
+Because 36 is divisible by both 3 and 9, it follows that 27193257 is divisible by both 3 and 9.\
+
+
+Next, we write a program that determines whether a positive integer is divisible by 3 and 9
+	- By first finding the sum of its digits and then checking whether the sum is divisible by 3 and 9.
+
+To find the sum of the digits of a positive integer, we need to extract each digit of the number. 
+	- Consider the number 951372. Note that 951372 % 10 = 2, which is the last digit of 951372. 
+	- Also note that 951372 / 10 = 95137, that is, when the number is divided by 10, it removes the last digit. 
+
+Next, we repeat this process on the number 95137. Of course, we need to add the extracted digits.
+
+Suppose that sum and num are int variables and the positive integer is stored in num. 
+
+We thus have the following algorithm to find the sum of the digits:
+
+sum = 0;
+do
+{
+sum = sum + num % 10; //extract the last digit and add it to sum
+
+num = num / 10; //remove the last digit
+}
+while (num > 0);
+
+Using this algorithm, we can write the following program that uses a do...while loop to implement the preceding divisibility test algorithm.

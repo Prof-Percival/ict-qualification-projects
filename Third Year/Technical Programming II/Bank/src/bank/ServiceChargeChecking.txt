@@ -1,0 +1,33 @@
+ServiceChargeChecking: 
+
+A service charge checking account is a checking account.
+
+Therefore, it inherits all the properties of a checking account. 
+
+For simplicity we assume that this type of account does not pay any interest, allows the account holder to write a limited number of checks each month, and does not require any minimum balance. 
+
+
+The named constants, instance variables, and methods of this class are described in Figure 10-10, which also shows the UML class diagram of the class ServiceChargeChecking.
+
+
+ServiceChargeChecking
+
+-ACCOUNT_SERVICE_CHARGE = 10.00: static final double
+-MAXIMUM_NUM_OF_CHECKS = 5: static final int
+-SERVICE_CHARGE_EXCESS_NUM_OF_CHECKS = 5: static final double
+#serviceChargeAccount: double
+#serviceChargeCheck: double
+#numberOfChecksWritten: int
+
++ServiceChargeChecking(String, int, double)
++ServiceChargeChecking(String, int, double, double, double)
++getServiceChargeAccount(): double
++setServiceChargeAccount(double): void
++getServiceChargeChecks(): double
++setServiceChargeChecks(double): void
++getNumberOfChecksWritten(): int
++setNumberOfChecksWritten(int): void
++postServiceCharge(): void
++writeCheck(double): void
++createMonthlyStatement(): void
++toString(): String

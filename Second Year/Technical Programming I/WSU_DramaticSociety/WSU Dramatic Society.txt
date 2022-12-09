@@ -1,0 +1,18 @@
+The WSU Dramatic Society is selling tickets for a concert. 
+
+Each ticket costs R50-00. (The price already includes VAT). 
+
+They are giving 10% discount to students and 20% discount to pensioners (and 0% discount to others). 
+
+The discount amount is based on the total cost of the tickets each customer wants. 
+
+They want a program which will do the following:
+	- Accept the type of customer (S for student, P for pensioner, X for other)
+	- The number of tickets the customer wants. 
+
+	Repeat till “Z” to terminate the program.
+
+The program must then calculate and display the following (with meaningful messages):
+	a. The total amount before discount.
+	b. The discount amount.
+	c. The total amount the customer must pay (after the discount has been subtracted).

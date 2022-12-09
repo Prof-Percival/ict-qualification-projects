@@ -1,0 +1,9 @@
+Write an application that asks a user to type an even number or the sentinel value 999 to stop. 
+
+When the user types an even number, display the message “Good job!” and then ask for another input. 
+
+When the user types an odd number, display an error message and then ask for another input. 
+
+When the user types the sentinel value 999, end the program. 
+
+Save the file as EvenEntryLoop.java.

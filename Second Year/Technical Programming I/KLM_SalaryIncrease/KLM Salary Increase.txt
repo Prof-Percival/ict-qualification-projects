@@ -1,0 +1,31 @@
+Write a program to compute the amount of salary increase (raise) and the new salary for KLM employees. 
+
+The program should also display the total cost to company after salary increase (total  amount of all salaries that the company will need to pay employees for one month). 
+
+The application will prompt the user to enter the current salary and the performance rating. 
+
+The rating is a string value  of “Excellent”, “Very-Good”, “Good”, “Fair”, or “Poor”. 
+
+Please follow the list below to assign the appropriate percent increase based on the reported performance:
+	• Excellent performance will increase the salary by 10%.
+	• Very good performance will increase the salary by 6%.
+	• Good performance will increase the salary by 4%.
+	• Fair performance will increase the salary by 1.5%.
+	• Poor performance will receive no salary increase.
+
+The application should check the entered information. 
+
+If the rating of performance is not one of the listed rating values above:
+	a feedback message “Illegal response, no raise given” will be displayed, the raise will equal zero and salary will not change. 
+
+This will be repeated until “ZZZ” is entered to terminate.
+
+An example of working application or sample output:
+	Please enter the performance rating (Excellent, Very Good, Good, Fair, or Poor): Excellent
+	Please enter the current salary: 50000
+	Current Salary: R50000.00
+	Performance Rating: Excellent
+	Amount of Raise: R5000.00
+	The New Salary: R55000.00
+
+Then when the loop exits it displays the total cost to company. Total Cost To Company per month: R

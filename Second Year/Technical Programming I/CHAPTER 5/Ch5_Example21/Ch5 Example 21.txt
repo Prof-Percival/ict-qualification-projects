@@ -1,0 +1,48 @@
+Consider the following data:
+	101
+	Lance Smith
+	65 78 65 89 25 98 -999
+	102
+	Cynthia Marker
+	87 34 89 99 26 78 64 34 -999
+	103
+	Sheila Mann
+	23 99 98 97 26 78 100 63 87 23 -999
+	104
+	David Arora
+	62 35 78 99 12 93 19 -999
+	...
+
+The number -999 at the end of a line acts as a sentinel and therefore is not part of the data.
+
+Assume that this data describes certain candidates seeking the student council’s presidential seat. 
+
+For each candidate the data is in the following form:
+	- ID
+	- Name
+	- Votes
+
+The objective is to find the total number of votes received by each candidate.
+
+We assume that the data is input from the file, Exp_5_21.txt, of unknown size. 
+
+We also assume that the input file has been opened using the Scanner variable inFile.
+
+Because the input file is of an unspecified length, we use an EOF-controlled while loop.
+For each candidate, the first data item is the ID of the type, say, int, on a line by itself;
+the second data item is the name, which may consist of more than one word; and the
+third line contains the votes received from the various departments.
+
+To read the ID we use the method nextInt; to read the name we use the method nextLine. 
+Notice that after reading the ID, the reading marker is after the ID and the character after the ID is the newline character. 
+Therefore, after reading the ID, the reading marker is after the ID and at the newline character (of the line containing the ID).
+The method nextLine reads until the end of the line. 
+
+Therefore, if we read the name immediately after reading the ID,
+	- Then the method nextLine will position the reading marker after the newline character following the ID,
+	- And nothing will be stored in the variable name. 
+
+Because the reading marker is just before the name, 
+	-if we use the method nextInt to read the voting data, the program will terminate with an error message.
+
+Therefore, it follows that to read the name, we must discard the newline character after the ID, which we can do using the method nextLine.

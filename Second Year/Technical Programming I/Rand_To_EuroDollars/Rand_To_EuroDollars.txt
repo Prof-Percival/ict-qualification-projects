@@ -1,0 +1,3 @@
+Write a Java program that prompts the user for an amount in rands and converts it 
+to the equivalent amount in Euros and Dollars 
+(you can either assume that €1= R17.00, $1 = R14.25 or look up the current exchange rates on the Web).

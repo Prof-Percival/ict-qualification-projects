@@ -1,0 +1,16 @@
+WSU Computer Society is ordering branded T-shirts for members. 
+
+The price of each size of T-shirt is given in the following table:
+	Size of the 	T-Shirt Code 	     Price
+	    Small 	    S 		   R 110.00
+	    Medium 	    M 		   R 115.00
+	    Large 	    L 		   R 120.00
+	    Extra Large     XL 		   R 125.00
+
+They require a program to get the size of T-shirt, and the number of T-shirts they want for their members. 
+
+The user enters the code of the T-shirt when prompted to enter the size. 
+
+The program must then display the total cost of the T-shirt chosen and discount. 
+
+If a person’s total cost is 1000 or more they are given a discount of 15%

@@ -1,0 +1,39 @@
+WSU Guest House has three types of rooms for accommodation of guests: 
+			(single, double and suite)
+
+The room charges per day are:
+	Single - R250 per day
+	Double - R350 per day
+	Suite - R500 per day
+
+If needed, an additional bed will be provided in the room for a charge of R50 per day. 
+
+The Guest House requires a program which must work as follows:
+	1. The name of the guest and the number of days of stay must be entered in text boxes
+	2. The type of room must be selected using radio buttons
+	3. A check box control must be used to select whether an additional bed is needed or not
+
+When the form is first loaded, the double room must be selected and the additional bed must not be checked.
+
+When the user clicks a CALCULATE button the program must do the following:
+	1. Call a function to validate that the name contains only alphabetic characters and spaces. 
+		(The name should not be composed only of spaces).
+		A boolean value must be returned to the calling procedure.
+		If the data is invalid, a message must be displayed and the cursor placed in the name text box.
+
+	2. The program must validate that the number of days is numeric and not less than 1.
+		If the data is invalid, a message must be displayed and the cursor placed in the number of days text box.
+
+If all data is valid the program must:
+	a. calculate and display the total daily charge by adding the charge for the room to the charge of the additional bed (if selected)
+	b. calculate and display the total charge for the input number of days
+	c. calculate and display the VAT amount (14% of the total charge)
+	d. calculate and display the total charge including VAT
+
+All displays must be in read-only text boxes.
+
+The program must end when the user clicks an exit button.
+
+DO THE FOLLOWING:
+	1. Draw the GUI for the form. Show the name of each control.
+	2. Write the VB program

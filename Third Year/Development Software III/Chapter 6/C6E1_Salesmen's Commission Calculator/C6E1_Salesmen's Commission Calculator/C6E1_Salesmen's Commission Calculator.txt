@@ -1,0 +1,10 @@
+Salesmen’s Commission Calculator
+
+Create an application that lets the user enter a salesman’s revenue sale and the rate of commission paid by the company, and displays the commission earned. 
+
+For example:
+	• If a salesman sells $100,000 in revenue while working with a company that pays 5 percent of the revenue, his commission check will be $5,000.
+	• If a salesman sells $100,000 in revenue while working with a company that pays 8 percent of the revenue, his commission check will be $8,000.
+
+The program should have a method named CalculateCommission that receives the revenue sale by a salesman and the commission percentage as arguments, and 
+returns the commission earned by the salesman.

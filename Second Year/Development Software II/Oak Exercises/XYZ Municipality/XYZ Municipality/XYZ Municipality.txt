@@ -1,0 +1,65 @@
+XYZ Municipality needs a program to calculate the property tax of the residents of that municipality. 			[43]
+
+The property tax is calculated by adding a house tax to a land tax and subtracting a discount. 
+
+	- The house tax is based on the area in square meters of the house
+	- The land tax is based on the area in square meters of the land
+	- The discount is based on the age of the house in years.
+
+
+The house tax is calculated as follows
+	House Area in square meters			Calculation of  House Tax
+	Less than or equal to 100 			R10 per square meter
+	Over 100 but less than or equal to 200		R1000 + R11 per square meter for area above 100 m2
+	Over 200 but less than or equal to 300		R2100 + R12 per square meter for area above 200 m2
+	Over 300 but less than or equal to 400		R3300 + R13 per square meter for area above 300 m2
+	Over 400 but less than or equal to 500		R4600 + R14 per square meter for area above 400 m2
+	Over 500					R6000 + R17 per square meter for area above 500 m2
+
+	
+	If the house is less than 5 years old then there is no discount. 
+	If the age of the house is from 5 to 19 years, a discount of 7.5% is allowed. 
+	If the house is 20 years or older, 25% discount is allowed.
+
+
+The land tax is calculated as follows.
+	Land Area in square meters			Calculation of Land Tax
+	Less than or equal to 1000 			R1 per square meter
+	Over 1000 but less than or equal to 2000	R1000 + R1.50 per square meter for area above 1000 m2
+	Over 2000					R2500 + R2.50 per square meter for area above 2000 m2
+
+
+	Get:
+	- The name of the owner
+	- Address of the owner
+	- Area of house in square meters
+	- Area of the land in square meters
+	- The age of the house in years using text boxes.
+
+
+The following validations needs to be done on the data when the user clicks a calculate button.
+	• The area of the house must be numeric and must be greater than 0.
+	• The area of the land must be numeric and must be greater than 0.
+	• The age of the house must be numeric and must greater than 0.
+
+If the data is invalid, give an error message and no further calculations must be done. 
+
+If the data is valid, calculate and display the following in separate read only text boxes.
+	• The tax for the house
+	• The tax for the land
+	• The discount
+	• The total property tax for the year
+	• The property tax payable every month
+
+You need to format Rands showing the R symbol and with 2 decimal places.
+
+When the user clicks exit button, end the program.
+ 
+You are required to do the following.
+	- Draw the Graphical User Interface for the program. Show the controls and label them.	[6]
+
+	- Write the VB code for the calculate click event. 
+	  If any form level variables need to be declared for the calculation, they must be shown above the click event procedure. 
+	  
+	If this procedure calls any user-defined procedure and/or function: 
+		-You must also write the code for all such procedures and/or functions.

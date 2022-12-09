@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C6E1_Salesmen's Commission Calculator", "C6E1_Salesmen's Commission Calculator\C6E1_Salesmen's Commission Calculator.csproj", "{4F41AB14-04D7-4C45-8952-C22EE1372265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F41AB14-04D7-4C45-8952-C22EE1372265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F41AB14-04D7-4C45-8952-C22EE1372265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F41AB14-04D7-4C45-8952-C22EE1372265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F41AB14-04D7-4C45-8952-C22EE1372265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05F1A764-9649-4543-A784-8F093B96155A}
+	EndGlobalSection
+EndGlobal

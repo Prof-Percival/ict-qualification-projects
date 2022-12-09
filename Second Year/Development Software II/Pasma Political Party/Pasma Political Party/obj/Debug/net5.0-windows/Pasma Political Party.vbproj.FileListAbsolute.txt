@@ -1,0 +1,19 @@
+E:\PROJECTS\DES25P0\Pasma Political Party\Pasma Political Party\bin\Debug\net5.0-windows\Pasma Political Party.exe
+E:\PROJECTS\DES25P0\Pasma Political Party\Pasma Political Party\bin\Debug\net5.0-windows\Pasma Political Party.deps.json
+E:\PROJECTS\DES25P0\Pasma Political Party\Pasma Political Party\bin\Debug\net5.0-windows\Pasma Political Party.runtimeconfig.json
+E:\PROJECTS\DES25P0\Pasma Political Party\Pasma Political Party\bin\Debug\net5.0-windows\Pasma Political Party.runtimeconfig.dev.json
+E:\PROJECTS\DES25P0\Pasma Political Party\Pasma Political Party\bin\Debug\net5.0-windows\Pasma Political Party.dll
+E:\PROJECTS\DES25P0\Pasma Political Party\Pasma Political Party\bin\Debug\net5.0-windows\ref\Pasma Political Party.dll
+E:\PROJECTS\DES25P0\Pasma Political Party\Pasma Political Party\bin\Debug\net5.0-windows\Pasma Political Party.pdb
+E:\PROJECTS\DES25P0\Pasma Political Party\Pasma Political Party\obj\Debug\net5.0-windows\Pasma Political Party.vbproj.AssemblyReference.cache
+E:\PROJECTS\DES25P0\Pasma Political Party\Pasma Political Party\obj\Debug\net5.0-windows\Pasma_Political_Party.frmPasma.resources
+E:\PROJECTS\DES25P0\Pasma Political Party\Pasma Political Party\obj\Debug\net5.0-windows\Pasma_Political_Party.Resources.resources
+E:\PROJECTS\DES25P0\Pasma Political Party\Pasma Political Party\obj\Debug\net5.0-windows\Pasma Political Party.vbproj.GenerateResource.cache
+E:\PROJECTS\DES25P0\Pasma Political Party\Pasma Political Party\obj\Debug\net5.0-windows\Pasma Political Party.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\DES25P0\Pasma Political Party\Pasma Political Party\obj\Debug\net5.0-windows\Pasma Political Party.AssemblyInfoInputs.cache
+E:\PROJECTS\DES25P0\Pasma Political Party\Pasma Political Party\obj\Debug\net5.0-windows\Pasma Political Party.AssemblyInfo.vb
+E:\PROJECTS\DES25P0\Pasma Political Party\Pasma Political Party\obj\Debug\net5.0-windows\Pasma Political Party.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\DES25P0\Pasma Political Party\Pasma Political Party\obj\Debug\net5.0-windows\Pasma Political Party.dll
+E:\PROJECTS\DES25P0\Pasma Political Party\Pasma Political Party\obj\Debug\net5.0-windows\ref\Pasma Political Party.dll
+E:\PROJECTS\DES25P0\Pasma Political Party\Pasma Political Party\obj\Debug\net5.0-windows\Pasma Political Party.pdb
+E:\PROJECTS\DES25P0\Pasma Political Party\Pasma Political Party\obj\Debug\net5.0-windows\Pasma Political Party.genruntimeconfig.cache

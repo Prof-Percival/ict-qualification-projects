@@ -1,0 +1,50 @@
+Home Affairs in Butterworth is updating their system in which it has a textbox for the user to input the Identification number of the people.
+
+A South African Identification number is a 13-digit number containing only numeric characters. 
+
+It is defined by character sequence YYMMDDSSSSCAZ, the meaning of which is given below.
+	YY represents the year of birth
+	MM represents the month of birth
+	DD represents the date of the birth in the month
+	SSSS is a sequence number registered with the same birth date. 
+	Females are assigned sequential numbers in the range 0000 to 4999
+	Males from 5000 to 9999.
+	C is the residential status with 0 if the person is a South African Citizen
+					 1 if the person is a permanent resident
+	A is 8 or 9.
+	Z is a checksum digit.
+
+When the user clicks a SHOW button, the program must call a sub procedure which validates and display the results.
+
+The sub procedure receives the ID number as a string parameter (not trimmed) and validate the ID number as follows:
+	The ID number must be exactly 13 digit characters. (Hint: Digit means only numeric values)
+	The 11th digit must be 0 or 1
+	The 12th digit must be 8 or 9
+
+Display appropriate error message(s) if it is invalid.
+
+If the data is valid:
+	The sub procedure must display date of birth in the short date format, gender and residential status in three separate textboxes 
+										(txtDoB, txtGender and txtResidentStatus) from the ID number.
+	
+	For example, if the ID Number is 8506205806192 the three text boxes must display the following
+		20/06/1985
+		Male
+		Permanent Resident
+
+	If the ID Number is 1107154356088 the text boxes must display the following.
+		15/07/2011
+		Female
+		South African Citizen
+
+ie. If YY is greater than or equal to 00 and less than or equal to 20, then the first two characters of year to be displayed is 20. 
+	(For example: if YY is 03, then you will display 2003). 
+
+    If YY is greater than 15 and less than or equal to 99, then the first two characters of year to be displayed is 19. 
+	(For example: if YY is 21, then you will display 1921)
+
+The program must end when he clicks an EXIT button.
+
+	1. Draw the VB structure chart for the program.
+
+	2. Write the VB code for the sub procedure.

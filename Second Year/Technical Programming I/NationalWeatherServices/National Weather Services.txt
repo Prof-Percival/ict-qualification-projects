@@ -1,0 +1,13 @@
+The National Weather Service’s uses the table below to describe the degree of cloudiness. 
+
+The program must accept the percentage of cloud cover and display the appropriate descriptor. 
+
+The program must do for 7 days.  
+
+Use the following table:
+
+	Percentage of Cloud Cover	Descriptor
+		0 – 30		Clear
+		31 – 70		Partly cloudy
+		71 – 99		Cloudy
+		100		overcast

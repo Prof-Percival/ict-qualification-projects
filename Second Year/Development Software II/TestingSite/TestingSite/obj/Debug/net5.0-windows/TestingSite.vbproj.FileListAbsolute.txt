@@ -1,0 +1,36 @@
+E:\PROJECTS\DES25P0\TestingSite\TestingSite\bin\Debug\net5.0-windows\TestingSite.exe
+E:\PROJECTS\DES25P0\TestingSite\TestingSite\bin\Debug\net5.0-windows\TestingSite.deps.json
+E:\PROJECTS\DES25P0\TestingSite\TestingSite\bin\Debug\net5.0-windows\TestingSite.runtimeconfig.json
+E:\PROJECTS\DES25P0\TestingSite\TestingSite\bin\Debug\net5.0-windows\TestingSite.runtimeconfig.dev.json
+E:\PROJECTS\DES25P0\TestingSite\TestingSite\bin\Debug\net5.0-windows\TestingSite.dll
+E:\PROJECTS\DES25P0\TestingSite\TestingSite\bin\Debug\net5.0-windows\ref\TestingSite.dll
+E:\PROJECTS\DES25P0\TestingSite\TestingSite\bin\Debug\net5.0-windows\TestingSite.pdb
+E:\PROJECTS\DES25P0\TestingSite\TestingSite\obj\Debug\net5.0-windows\TestingSite.vbproj.AssemblyReference.cache
+E:\PROJECTS\DES25P0\TestingSite\TestingSite\obj\Debug\net5.0-windows\TestingSite.Form1.resources
+E:\PROJECTS\DES25P0\TestingSite\TestingSite\obj\Debug\net5.0-windows\TestingSite.vbproj.GenerateResource.cache
+E:\PROJECTS\DES25P0\TestingSite\TestingSite\obj\Debug\net5.0-windows\TestingSite.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\DES25P0\TestingSite\TestingSite\obj\Debug\net5.0-windows\TestingSite.AssemblyInfoInputs.cache
+E:\PROJECTS\DES25P0\TestingSite\TestingSite\obj\Debug\net5.0-windows\TestingSite.AssemblyInfo.vb
+E:\PROJECTS\DES25P0\TestingSite\TestingSite\obj\Debug\net5.0-windows\TestingSite.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\DES25P0\TestingSite\TestingSite\obj\Debug\net5.0-windows\TestingSite.dll
+E:\PROJECTS\DES25P0\TestingSite\TestingSite\obj\Debug\net5.0-windows\ref\TestingSite.dll
+E:\PROJECTS\DES25P0\TestingSite\TestingSite\obj\Debug\net5.0-windows\TestingSite.pdb
+E:\PROJECTS\DES25P0\TestingSite\TestingSite\obj\Debug\net5.0-windows\TestingSite.genruntimeconfig.cache
+E:\PROJECTS\3rd Year\DES25P0\TestingSite\TestingSite\bin\Debug\net5.0-windows\TestingSite.exe
+E:\PROJECTS\3rd Year\DES25P0\TestingSite\TestingSite\bin\Debug\net5.0-windows\TestingSite.deps.json
+E:\PROJECTS\3rd Year\DES25P0\TestingSite\TestingSite\bin\Debug\net5.0-windows\TestingSite.runtimeconfig.json
+E:\PROJECTS\3rd Year\DES25P0\TestingSite\TestingSite\bin\Debug\net5.0-windows\TestingSite.runtimeconfig.dev.json
+E:\PROJECTS\3rd Year\DES25P0\TestingSite\TestingSite\bin\Debug\net5.0-windows\TestingSite.dll
+E:\PROJECTS\3rd Year\DES25P0\TestingSite\TestingSite\bin\Debug\net5.0-windows\ref\TestingSite.dll
+E:\PROJECTS\3rd Year\DES25P0\TestingSite\TestingSite\bin\Debug\net5.0-windows\TestingSite.pdb
+E:\PROJECTS\3rd Year\DES25P0\TestingSite\TestingSite\obj\Debug\net5.0-windows\TestingSite.vbproj.AssemblyReference.cache
+E:\PROJECTS\3rd Year\DES25P0\TestingSite\TestingSite\obj\Debug\net5.0-windows\TestingSite.Form1.resources
+E:\PROJECTS\3rd Year\DES25P0\TestingSite\TestingSite\obj\Debug\net5.0-windows\TestingSite.vbproj.GenerateResource.cache
+E:\PROJECTS\3rd Year\DES25P0\TestingSite\TestingSite\obj\Debug\net5.0-windows\TestingSite.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\3rd Year\DES25P0\TestingSite\TestingSite\obj\Debug\net5.0-windows\TestingSite.AssemblyInfoInputs.cache
+E:\PROJECTS\3rd Year\DES25P0\TestingSite\TestingSite\obj\Debug\net5.0-windows\TestingSite.AssemblyInfo.vb
+E:\PROJECTS\3rd Year\DES25P0\TestingSite\TestingSite\obj\Debug\net5.0-windows\TestingSite.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\3rd Year\DES25P0\TestingSite\TestingSite\obj\Debug\net5.0-windows\TestingSite.dll
+E:\PROJECTS\3rd Year\DES25P0\TestingSite\TestingSite\obj\Debug\net5.0-windows\ref\TestingSite.dll
+E:\PROJECTS\3rd Year\DES25P0\TestingSite\TestingSite\obj\Debug\net5.0-windows\TestingSite.pdb
+E:\PROJECTS\3rd Year\DES25P0\TestingSite\TestingSite\obj\Debug\net5.0-windows\TestingSite.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+CheckingAccount: 
+A checking account is a bank account. 
+
+Therefore, it inherits all the properties of a bank account. 
+
+Because one of the objectives of a checking account is to be able to write checks, we include the abstract method writeCheck to write checks. 
+
+
+The UML class diagram for class CheckingAccount is shown in Figure 10-9 (p.629) D.S Malik
+
+CheckingAccount
+
++CheckingAccount(String, int, double)
++writeCheck(double): abstract void

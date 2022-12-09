@@ -1,0 +1,26 @@
+Capitec bank needs a software for the smooth running of their business and they have asked you to develop a program.
+Allow the user to input the ID, First name, last name, citizen and balance amount in separate text boxes. 
+
+When the user clicks on SHOW button, the program must do the following validation
+1. All input fields must not be empty
+2. ID must have only numeric
+3. ID must be exactly 13 digits
+4. First Name must be alphabetic and may contain spaces but no other characters or numbers
+5. Last Name must be alphabetic and may contain spaces but no other characters or numbers
+6. Citizen must be alphabetic and may contain spaces but no other characters or numbers
+7. Balance Amount must have only numeric
+8. Balance Amount must be greater than 0
+
+If any of the data is invalid,
+Do not perform the calculation, Display the error message, Clear the invalid data and bring the Focus to the respective textbox. 
+Display 0 as the output for Total Balance
+
+If all the data is valid, then:
+If the first two characters of ID is 55 or less:
+Then the customer's monthly interest received rate will be 5 % of the balance amount, otherwise 3%.
+
+Calculate and display the Total Balance in a read only textbox.
+
+Total Balance can be calculated as (Total Balance + (Total Balance * rate))
+
+When the user click on EXIT button, program must end

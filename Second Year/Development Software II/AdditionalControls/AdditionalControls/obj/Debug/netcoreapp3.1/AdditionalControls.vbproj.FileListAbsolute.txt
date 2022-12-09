@@ -1,0 +1,11 @@
+E:\PROJECTS\DES25P0\AdditionalControls\AdditionalControls\obj\Debug\netcoreapp3.1\AdditionalControls.vbproj.AssemblyReference.cache
+E:\PROJECTS\DES25P0\AdditionalControls\AdditionalControls\obj\Debug\netcoreapp3.1\AdditionalControls.frmAbout.resources
+E:\PROJECTS\DES25P0\AdditionalControls\AdditionalControls\obj\Debug\netcoreapp3.1\AdditionalControls.frmACs.resources
+E:\PROJECTS\DES25P0\AdditionalControls\AdditionalControls\obj\Debug\netcoreapp3.1\AdditionalControls.frmLogin.resources
+E:\PROJECTS\DES25P0\AdditionalControls\AdditionalControls\obj\Debug\netcoreapp3.1\AdditionalControls.frmLoginPage.resources
+E:\PROJECTS\DES25P0\AdditionalControls\AdditionalControls\obj\Debug\netcoreapp3.1\AdditionalControls.Resources.resources
+E:\PROJECTS\DES25P0\AdditionalControls\AdditionalControls\obj\Debug\netcoreapp3.1\AdditionalControls.SplashScreen1.resources
+E:\PROJECTS\DES25P0\AdditionalControls\AdditionalControls\obj\Debug\netcoreapp3.1\AdditionalControls.vbproj.GenerateResource.cache
+E:\PROJECTS\DES25P0\AdditionalControls\AdditionalControls\obj\Debug\netcoreapp3.1\AdditionalControls.AssemblyInfoInputs.cache
+E:\PROJECTS\DES25P0\AdditionalControls\AdditionalControls\obj\Debug\netcoreapp3.1\AdditionalControls.AssemblyInfo.vb
+E:\PROJECTS\DES25P0\AdditionalControls\AdditionalControls\obj\Debug\netcoreapp3.1\AdditionalControls.vbproj.CoreCompileInputs.cache

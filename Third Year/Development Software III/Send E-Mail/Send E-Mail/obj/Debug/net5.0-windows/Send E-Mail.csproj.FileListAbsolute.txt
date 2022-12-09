@@ -1,0 +1,25 @@
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\bin\Debug\net5.0-windows\Send E-Mail.exe
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\bin\Debug\net5.0-windows\Send E-Mail.deps.json
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\bin\Debug\net5.0-windows\Send E-Mail.runtimeconfig.json
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\bin\Debug\net5.0-windows\Send E-Mail.runtimeconfig.dev.json
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\bin\Debug\net5.0-windows\Send E-Mail.dll
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\bin\Debug\net5.0-windows\ref\Send E-Mail.dll
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\bin\Debug\net5.0-windows\Send E-Mail.pdb
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\obj\Debug\net5.0-windows\Send_E_Mail.FrmSendEMail.resources
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\obj\Debug\net5.0-windows\Send E-Mail.csproj.GenerateResource.cache
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\obj\Debug\net5.0-windows\Send E-Mail.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\obj\Debug\net5.0-windows\Send E-Mail.AssemblyInfoInputs.cache
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\obj\Debug\net5.0-windows\Send E-Mail.AssemblyInfo.cs
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\obj\Debug\net5.0-windows\Send E-Mail.csproj.CoreCompileInputs.cache
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\obj\Debug\net5.0-windows\Send E-Mail.csproj.CopyComplete
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\obj\Debug\net5.0-windows\Send E-Mail.dll
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\obj\Debug\net5.0-windows\ref\Send E-Mail.dll
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\obj\Debug\net5.0-windows\Send E-Mail.pdb
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\obj\Debug\net5.0-windows\Send E-Mail.genruntimeconfig.cache
+F:\PROJECTS\4th Year\DES36P0\Send E-Mail\Send E-Mail\obj\Debug\net5.0-windows\Send E-Mail.csproj.AssemblyReference.cache

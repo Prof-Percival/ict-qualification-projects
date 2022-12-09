@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DB_Pract1/1.0.0": {
+        "runtime": {
+          "DB_Pract1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DB_Pract1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

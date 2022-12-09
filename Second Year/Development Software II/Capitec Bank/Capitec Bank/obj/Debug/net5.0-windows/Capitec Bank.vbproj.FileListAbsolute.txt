@@ -1,0 +1,19 @@
+E:\PROJECTS\DES25P0\Capitec Bank\Capitec Bank\bin\Debug\net5.0-windows\Capitec Bank.exe
+E:\PROJECTS\DES25P0\Capitec Bank\Capitec Bank\bin\Debug\net5.0-windows\Capitec Bank.deps.json
+E:\PROJECTS\DES25P0\Capitec Bank\Capitec Bank\bin\Debug\net5.0-windows\Capitec Bank.runtimeconfig.json
+E:\PROJECTS\DES25P0\Capitec Bank\Capitec Bank\bin\Debug\net5.0-windows\Capitec Bank.runtimeconfig.dev.json
+E:\PROJECTS\DES25P0\Capitec Bank\Capitec Bank\bin\Debug\net5.0-windows\Capitec Bank.dll
+E:\PROJECTS\DES25P0\Capitec Bank\Capitec Bank\bin\Debug\net5.0-windows\ref\Capitec Bank.dll
+E:\PROJECTS\DES25P0\Capitec Bank\Capitec Bank\bin\Debug\net5.0-windows\Capitec Bank.pdb
+E:\PROJECTS\DES25P0\Capitec Bank\Capitec Bank\obj\Debug\net5.0-windows\Capitec_Bank.Form1.resources
+E:\PROJECTS\DES25P0\Capitec Bank\Capitec Bank\obj\Debug\net5.0-windows\Capitec_Bank.Resources.resources
+E:\PROJECTS\DES25P0\Capitec Bank\Capitec Bank\obj\Debug\net5.0-windows\Capitec Bank.vbproj.GenerateResource.cache
+E:\PROJECTS\DES25P0\Capitec Bank\Capitec Bank\obj\Debug\net5.0-windows\Capitec Bank.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\DES25P0\Capitec Bank\Capitec Bank\obj\Debug\net5.0-windows\Capitec Bank.AssemblyInfoInputs.cache
+E:\PROJECTS\DES25P0\Capitec Bank\Capitec Bank\obj\Debug\net5.0-windows\Capitec Bank.AssemblyInfo.vb
+E:\PROJECTS\DES25P0\Capitec Bank\Capitec Bank\obj\Debug\net5.0-windows\Capitec Bank.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\DES25P0\Capitec Bank\Capitec Bank\obj\Debug\net5.0-windows\Capitec Bank.dll
+E:\PROJECTS\DES25P0\Capitec Bank\Capitec Bank\obj\Debug\net5.0-windows\ref\Capitec Bank.dll
+E:\PROJECTS\DES25P0\Capitec Bank\Capitec Bank\obj\Debug\net5.0-windows\Capitec Bank.pdb
+E:\PROJECTS\DES25P0\Capitec Bank\Capitec Bank\obj\Debug\net5.0-windows\Capitec Bank.genruntimeconfig.cache
+E:\PROJECTS\DES25P0\Capitec Bank\Capitec Bank\obj\Debug\net5.0-windows\Capitec Bank.vbproj.AssemblyReference.cache

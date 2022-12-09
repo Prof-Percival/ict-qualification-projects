@@ -1,0 +1,173 @@
+package candymachine;
+
+import java.util.Scanner;
+
+public class CandyMachine {
+
+    static Scanner input = new Scanner(System.in);
+    
+    public static void main(String[] args) {
+        
+                            //FOR MACHINE OPERATOR (The Person Who Will Switch It On)
+        //Set Exit Key
+        int key, verKey = 0;
+        
+        boolean set = false;
+        
+        while (!set)
+        {
+            System.out.print("Set The Exit Key (4 Digits Numeric-Key): ");
+            key = input.nextInt();
+            System.out.print("Verify The Exit Key: ");
+            verKey = input.nextInt();
+            
+            if (key == verKey)
+            {   
+                set = true;
+                System.out.printf("%nExit Key Set Successfully! Exit Key [ %d ]%n", verKey);
+            }
+            else
+            {
+                System.out.println("\nExit Keys Do Not Match! Try Again...");
+            }
+            
+            System.out.println();
+        }
+        
+        //Instantiated CashRegister object and invoke default Constructor
+        CashRegister cashRegister = new CashRegister();
+        
+                                        //Set Number of Items per Product & Prices
+        System.out.println("\t\t\t\t *** Set Number of Items per Product and Cost in The Machine ***");
+        int noItems;
+        int productCost;
+        
+        
+        //Number of Items for Candies and Price
+        System.out.print("Input Number of Items For Candies: ");
+        noItems = input.nextInt();
+        System.out.print("Input Price For A Candy: ");
+        productCost = input.nextInt();
+        //Creating Candy Object and Initializing data memebrs
+        Dispenser candies = new Dispenser(noItems, productCost);
+        
+        //Number of Items for Chips and Price
+        System.out.print("\nInput Number of Items For Chips: ");
+        noItems = input.nextInt();
+        System.out.print("Input Price For Chips: ");
+        productCost = input.nextInt();
+        //Creating Chips Object and Initializing data memebrs
+        Dispenser chips = new Dispenser(noItems, productCost);
+        
+        //Number of Items for Gums and Price
+        System.out.print("\nInput Number of Items For Gums: ");
+        noItems = input.nextInt();
+        System.out.print("Input Price For A Gum: ");
+        productCost = input.nextInt();
+        //Creating Gums Object and Initializing data memebrs
+        Dispenser gums = new Dispenser(noItems, productCost);
+        
+        //Number of Items for Cookies and Price
+        System.out.print("\nInput Number of Items For Cookies: ");
+        noItems = input.nextInt();
+        System.out.print("Input Price For A Cookie: ");
+        productCost = input.nextInt();
+        //Creating Cookies Object and Initializing data memebrs
+        Dispenser cookies = new Dispenser(noItems, productCost);
+        
+        
+        System.out.println("\n\t\t\t\t ******************************\n\n");
+        
+        
+                            //FOR CUSTOMER
+        int choice; //Variable to hold selection made by customer
+        
+        //Calling Selection Method
+        CandyMachine.showSelection();
+        choice = input.nextInt(); //Accept User Input/Choice
+        
+        while (choice != verKey)
+        {
+            System.out.println();
+            
+            switch (choice)
+            {
+                case 1: //Customer Wants To Buy Candies
+                    sellProduct(candies, cashRegister); //Calling Sell Product and passing References to object
+                    break;
+                    
+                case 2: //Customer Wants To Buy Chips
+                    sellProduct(chips, cashRegister); //Calling Sell Product and passing References to object
+                    break;
+                    
+                case 3: //Customer Wants To Buy Gums
+                    sellProduct(gums, cashRegister); //Calling Sell Product and passing References to object
+                    break;
+                    
+                case 4: //Customer Wants To Buy Cookies
+                    sellProduct(cookies, cashRegister); //Calling Sell Product and passing References to object
+                    break;
+                    
+                default: //User Input is Invalid
+                    System.out.println("Invalid Selection");        
+            }
+            
+            System.out.println();
+            
+            //Call Show Selection Again For New User Inputs
+            CandyMachine.showSelection();
+            choice = input.nextInt(); //Accept User Input/Choice           
+        }
+        
+        //SALES MADE (End of The Business Day)
+        System.out.println("\n\t\t\t\t\t\t***=== SALES ===***");
+        System.out.printf("Total Sales Made = R%d%n%n", cashRegister.currentBalance());
+       
+    }
+    
+    //Method to show Selection to the customer
+    public static void showSelection()
+    {
+        System.out.println("\t\t\t\t*** Welcome To Mahlako's Candy Shop ***");
+        System.out.println("To Select An Item, Enter:");
+        System.out.println("1 For Candies");
+        System.out.println("2 For Chips");
+        System.out.println("3 For Gums");
+        System.out.println("4 For Cookies\n");
+        //System.out.println("9 To Exit\n");
+        System.out.print("SELECTION: ");
+    }
+    
+    //Method to Sell Products and Update Accordingly
+    public static void sellProduct(Dispenser product, CashRegister cRegister)
+    {
+        int price; //Variable to hold product price
+        int coinsInserted; //Variable to hold coins inserted
+        int coinsRequired; //Variable to show extra amount needed
+        
+        if (product.getCount() > 0)
+        {
+            price = product.getProductCost();
+            coinsRequired = price;
+            coinsInserted = 0;
+            
+            while (coinsRequired > 0)
+            {
+                System.out.print("Please Deposit R" + coinsRequired + ": ");
+                coinsInserted += input.nextInt();
+                
+                //Check if All Required Coins have been deposited (Subtract)
+                coinsRequired = price - coinsInserted;
+            }
+            
+            System.out.println();
+            
+            cRegister.acceptAmount(coinsInserted); //Send Cash to Register
+            product.makeSale(); //In Despenser, release product
+            
+            System.out.println("Collect Your Item At The Bottom And Enjoy.\n");
+        }
+        else
+            System.out.println("Sorry... This Item is Sold Out.\n");
+    }
+}

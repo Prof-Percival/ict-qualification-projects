@@ -1,0 +1,10 @@
+package candymachine;
+
+public class CandyMachin {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

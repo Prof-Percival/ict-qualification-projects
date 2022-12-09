@@ -1,0 +1,19 @@
+Converting Yen and Euros to U.S. Dollars
+
+Your friend is working for a foreign exchange agency that helps tourists visiting the United States by converting Japanese yen and European euro to U.S. dollars. 
+
+She asks a tourist the amount of foreign currency they want to convert, and then calculates the converted amount in U.S. dollars using the current rate of exchange 
+
+	for JPY to USD as:
+		1 JPY = 0.0098 USD
+
+Similarly, she uses the current market rate for converting 
+
+	EUR to USD as:
+		1 EUR = 1.37 USD
+
+Create an application that will make these calculations. In the application, you should have the following methods:
+
+	• YenToUSD – This method should accept a currency value in yens as an argument and return its value in USD.
+	
+	• EuroToUSD–This method should accept a currency value in euros as an argument and return its value in USD.

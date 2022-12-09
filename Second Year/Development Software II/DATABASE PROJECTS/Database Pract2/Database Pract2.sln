@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Database Pract2", "Database Pract2\Database Pract2.vbproj", "{ACE28C52-20B6-462F-A806-36ED4047C8FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACE28C52-20B6-462F-A806-36ED4047C8FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE28C52-20B6-462F-A806-36ED4047C8FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE28C52-20B6-462F-A806-36ED4047C8FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE28C52-20B6-462F-A806-36ED4047C8FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61028E4C-5249-4648-AD72-16D143126F75}
+	EndGlobalSection
+EndGlobal

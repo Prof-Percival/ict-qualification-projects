@@ -1,0 +1,11 @@
+Suppose that you have the following statements:
+
+PrintWriter outfile;
+double distance = 375;
+double speed = 58;
+double travelTime;
+
+    Write Java statements to do the following:
+a. Open the file travel.txt using the variable outfile.							[2]
+b. Write the values of the variables distance and speed, to two decimal places in the file travel.txt	[2]
+c. Calculate and write the traveTime, to three decimal places in the file travel.txt			[3]

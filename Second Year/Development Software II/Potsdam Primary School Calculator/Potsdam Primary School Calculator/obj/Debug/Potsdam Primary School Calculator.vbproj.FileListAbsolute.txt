@@ -1,0 +1,11 @@
+E:\PROJECTS\DES25P0\Potsdam Primary School Calculator\Potsdam Primary School Calculator\bin\Debug\Potsdam Primary School Calculator.exe
+E:\PROJECTS\DES25P0\Potsdam Primary School Calculator\Potsdam Primary School Calculator\bin\Debug\Potsdam Primary School Calculator.pdb
+E:\PROJECTS\DES25P0\Potsdam Primary School Calculator\Potsdam Primary School Calculator\bin\Debug\Potsdam Primary School Calculator.xml
+E:\PROJECTS\DES25P0\Potsdam Primary School Calculator\Potsdam Primary School Calculator\obj\Debug\Potsdam Primary School Calculator.vbproj.AssemblyReference.cache
+E:\PROJECTS\DES25P0\Potsdam Primary School Calculator\Potsdam Primary School Calculator\obj\Debug\Potsdam_Primary_School_Calculator.frmCalculator.resources
+E:\PROJECTS\DES25P0\Potsdam Primary School Calculator\Potsdam Primary School Calculator\obj\Debug\Potsdam_Primary_School_Calculator.Resources.resources
+E:\PROJECTS\DES25P0\Potsdam Primary School Calculator\Potsdam Primary School Calculator\obj\Debug\Potsdam Primary School Calculator.vbproj.GenerateResource.cache
+E:\PROJECTS\DES25P0\Potsdam Primary School Calculator\Potsdam Primary School Calculator\obj\Debug\Potsdam Primary School Calculator.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\DES25P0\Potsdam Primary School Calculator\Potsdam Primary School Calculator\obj\Debug\Potsdam Primary School Calculator.exe
+E:\PROJECTS\DES25P0\Potsdam Primary School Calculator\Potsdam Primary School Calculator\obj\Debug\Potsdam Primary School Calculator.xml
+E:\PROJECTS\DES25P0\Potsdam Primary School Calculator\Potsdam Primary School Calculator\obj\Debug\Potsdam Primary School Calculator.pdb

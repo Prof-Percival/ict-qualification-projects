@@ -1,0 +1,18 @@
+E:\PROJECTS\3rd Year\DES25P0\Qunu Animal Farm\Qunu Animal Farm\bin\Debug\net5.0-windows\Qunu Animal Farm.exe
+E:\PROJECTS\3rd Year\DES25P0\Qunu Animal Farm\Qunu Animal Farm\bin\Debug\net5.0-windows\Qunu Animal Farm.deps.json
+E:\PROJECTS\3rd Year\DES25P0\Qunu Animal Farm\Qunu Animal Farm\bin\Debug\net5.0-windows\Qunu Animal Farm.runtimeconfig.json
+E:\PROJECTS\3rd Year\DES25P0\Qunu Animal Farm\Qunu Animal Farm\bin\Debug\net5.0-windows\Qunu Animal Farm.runtimeconfig.dev.json
+E:\PROJECTS\3rd Year\DES25P0\Qunu Animal Farm\Qunu Animal Farm\bin\Debug\net5.0-windows\Qunu Animal Farm.dll
+E:\PROJECTS\3rd Year\DES25P0\Qunu Animal Farm\Qunu Animal Farm\bin\Debug\net5.0-windows\ref\Qunu Animal Farm.dll
+E:\PROJECTS\3rd Year\DES25P0\Qunu Animal Farm\Qunu Animal Farm\bin\Debug\net5.0-windows\Qunu Animal Farm.pdb
+E:\PROJECTS\3rd Year\DES25P0\Qunu Animal Farm\Qunu Animal Farm\obj\Debug\net5.0-windows\Qunu Animal Farm.vbproj.AssemblyReference.cache
+E:\PROJECTS\3rd Year\DES25P0\Qunu Animal Farm\Qunu Animal Farm\obj\Debug\net5.0-windows\Qunu_Animal_Farm.frmQunuAF.resources
+E:\PROJECTS\3rd Year\DES25P0\Qunu Animal Farm\Qunu Animal Farm\obj\Debug\net5.0-windows\Qunu Animal Farm.vbproj.GenerateResource.cache
+E:\PROJECTS\3rd Year\DES25P0\Qunu Animal Farm\Qunu Animal Farm\obj\Debug\net5.0-windows\Qunu Animal Farm.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\3rd Year\DES25P0\Qunu Animal Farm\Qunu Animal Farm\obj\Debug\net5.0-windows\Qunu Animal Farm.AssemblyInfoInputs.cache
+E:\PROJECTS\3rd Year\DES25P0\Qunu Animal Farm\Qunu Animal Farm\obj\Debug\net5.0-windows\Qunu Animal Farm.AssemblyInfo.vb
+E:\PROJECTS\3rd Year\DES25P0\Qunu Animal Farm\Qunu Animal Farm\obj\Debug\net5.0-windows\Qunu Animal Farm.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\3rd Year\DES25P0\Qunu Animal Farm\Qunu Animal Farm\obj\Debug\net5.0-windows\Qunu Animal Farm.dll
+E:\PROJECTS\3rd Year\DES25P0\Qunu Animal Farm\Qunu Animal Farm\obj\Debug\net5.0-windows\ref\Qunu Animal Farm.dll
+E:\PROJECTS\3rd Year\DES25P0\Qunu Animal Farm\Qunu Animal Farm\obj\Debug\net5.0-windows\Qunu Animal Farm.pdb
+E:\PROJECTS\3rd Year\DES25P0\Qunu Animal Farm\Qunu Animal Farm\obj\Debug\net5.0-windows\Qunu Animal Farm.genruntimeconfig.cache

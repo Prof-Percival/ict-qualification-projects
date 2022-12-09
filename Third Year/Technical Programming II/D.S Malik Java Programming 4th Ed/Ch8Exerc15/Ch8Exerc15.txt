@@ -1,0 +1,29 @@
+15. Write the definition of a class that has the following properties:
+	a. The name of the class is Secret.
+
+	b. The class Secret has four instance variables: 
+		name of type String,
+		age and weight of type int, and height of type double.
+
+	c. The class Secret has the following methods:
+		print - outputs the data stored in the data members with the appropriate titles
+		
+		setName - method to set the name
+		setAge - method to set the age
+		setWeight - method to set the weight
+		setHeight - method to set the height
+		
+		getName - value-returning method to return the name
+		getAge - value-returning method to return the age
+		getWeight - value-returning method to return the weight
+		getHeight - value-returning method to return the height
+
+		default constructor:
+			the default value of name is the empty string "";
+			the default values of age, weight, and height are 0
+
+		constructor with parameters:
+			sets the values of the instance variables:
+				- name, age, weight, and height to the values specified by the user
+
+	d. Write the definitions of the method members of the class Secret, as described in part c.

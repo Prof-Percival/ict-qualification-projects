@@ -1,0 +1,16 @@
+E:\PROJECTS\DES25P0\Pizza Delicious\Pizza Delicious\bin\Debug\Pizza Delicious.exe.config
+E:\PROJECTS\DES25P0\Pizza Delicious\Pizza Delicious\bin\Debug\Pizza Delicious.exe
+E:\PROJECTS\DES25P0\Pizza Delicious\Pizza Delicious\bin\Debug\Pizza Delicious.pdb
+E:\PROJECTS\DES25P0\Pizza Delicious\Pizza Delicious\bin\Debug\Pizza Delicious.xml
+E:\PROJECTS\DES25P0\Pizza Delicious\Pizza Delicious\obj\Debug\Pizza Delicious.vbproj.AssemblyReference.cache
+E:\PROJECTS\DES25P0\Pizza Delicious\Pizza Delicious\obj\Debug\Pizza_Delicious.frmPizzaDelicious.resources
+E:\PROJECTS\DES25P0\Pizza Delicious\Pizza Delicious\obj\Debug\Pizza_Delicious.Resources.resources
+E:\PROJECTS\DES25P0\Pizza Delicious\Pizza Delicious\obj\Debug\Pizza Delicious.vbproj.GenerateResource.cache
+E:\PROJECTS\DES25P0\Pizza Delicious\Pizza Delicious\obj\Debug\Pizza Delicious.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\DES25P0\Pizza Delicious\Pizza Delicious\obj\Debug\Pizza Delicious.exe
+E:\PROJECTS\DES25P0\Pizza Delicious\Pizza Delicious\obj\Debug\Pizza Delicious.xml
+E:\PROJECTS\DES25P0\Pizza Delicious\Pizza Delicious\obj\Debug\Pizza Delicious.pdb
+E:\PROJECTS\DES25P0\Pizza Delicious\Pizza Delicious\bin\Debug\Pizza Delicious.exe.manifest
+E:\PROJECTS\DES25P0\Pizza Delicious\Pizza Delicious\bin\Debug\Pizza Delicious.application
+E:\PROJECTS\DES25P0\Pizza Delicious\Pizza Delicious\obj\Debug\Pizza Delicious.exe.manifest
+E:\PROJECTS\DES25P0\Pizza Delicious\Pizza Delicious\obj\Debug\Pizza Delicious.application

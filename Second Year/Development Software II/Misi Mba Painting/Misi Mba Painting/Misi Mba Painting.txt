@@ -1,0 +1,35 @@
+Misi Mba runs a business doing painting jobs for clients. 
+
+He wants a program which will help him work out how much paint he needs to buy. 
+
+He will need 5 litres to cover a wall of 15 square metres. 
+
+	He wants to input the following data: height of wall (in metres), width of wall (in metres).
+
+	When he clicks a CALCULATE button, the program must first validate the data as follows:
+		- height and weight (//correction// width) must be numeric and greater than 0
+		
+	If the data is valid:
+		- the program must call a function which calculates and returns the litres of paint needed (rounded to 0 decimal places)
+						Hint: first calculate the area of the wall.
+		- Then calculate the no of litres. Formula: numlitres = (area / 15) * 5
+
+In the calling procedure:
+	a. the answer must be shown in a read-only text box
+	b. the answer must be added to the total litres needed and shown in a read-only text box for TOTAL
+	c. the input text boxes must be disabled
+
+If any of the data is invalid, an error message must be shown and the calculation, accumulation and displays, etc. must not be done.
+
+When he clicks a NEXT button:
+	- The program must call a general procedure which clears all input and output (except the TOTAL litres)
+	- Enables the input text boxes and sets focus to the height text box.
+
+The program must end when he clicks an exit button.
+
+DO THE FOLLOWING:
+1. Identify all of the controls needed and be able to explain your reason for choosing those controls. 
+
+2. Draw the GUI for the form. Show the name of each control.
+
+3. Write the VB program

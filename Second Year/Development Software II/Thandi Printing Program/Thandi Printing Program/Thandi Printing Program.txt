@@ -1,0 +1,28 @@
+Zantsi Online Shopping Club is having a special on South African movies and South African music cds.
+
+The usual price for a South African movie is R105
+The usual price for a South African music cd is R99.99.
+
+The specials are as follows:
+If the member buys 5 movies, he/she will pay R89.99 for a movie.
+If the member buys 3 cds, he/she will pay R80 for a cd.
+If the member buys 10 or more movies, he/she will pay R40 for a movie
+If the member buys 5 or more cds, he/she will pay R30 for a cd.
+
+They want a program in which the input (in text boxes) will be the member number, the number of movies and the number of cds.
+
+When a calculate button is clicked, the program must do the following data validation:
+1. Member number must be exactly 5 characters and the last two characters of the member number must be AA
+
+2. The number of movies and the number of cds must both be numeric and > =0
+
+If the data is not valid:
+The program must display an error message, show 0 as the total amount for this order, and allow the user to re-input the data.
+
+If the data is valid:
+a. the program must calculate the total amount for this order.
+b. the total amount for this order must be shown in a read-only text box
+c. the total amount for this order must be added to the total amount for all orders so far
+d. the total amount for all orders so far must be shown in a read-only text box
+
+The program must end when an exit button is clicked.

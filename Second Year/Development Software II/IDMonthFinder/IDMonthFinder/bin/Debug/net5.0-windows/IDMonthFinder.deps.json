@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IDMonthFinder/1.0.0": {
+        "runtime": {
+          "IDMonthFinder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IDMonthFinder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E2_Falling Velocity\C6E2_Falling Velocity\bin\Debug\net5.0-windows\C6E2_Falling Velocity.exe
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E2_Falling Velocity\C6E2_Falling Velocity\bin\Debug\net5.0-windows\C6E2_Falling Velocity.deps.json
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E2_Falling Velocity\C6E2_Falling Velocity\bin\Debug\net5.0-windows\C6E2_Falling Velocity.runtimeconfig.json
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E2_Falling Velocity\C6E2_Falling Velocity\bin\Debug\net5.0-windows\C6E2_Falling Velocity.runtimeconfig.dev.json
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E2_Falling Velocity\C6E2_Falling Velocity\bin\Debug\net5.0-windows\C6E2_Falling Velocity.dll
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E2_Falling Velocity\C6E2_Falling Velocity\bin\Debug\net5.0-windows\ref\C6E2_Falling Velocity.dll
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E2_Falling Velocity\C6E2_Falling Velocity\bin\Debug\net5.0-windows\C6E2_Falling Velocity.pdb
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E2_Falling Velocity\C6E2_Falling Velocity\obj\Debug\net5.0-windows\C6E2_Falling Velocity.csproj.AssemblyReference.cache
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E2_Falling Velocity\C6E2_Falling Velocity\obj\Debug\net5.0-windows\C6E2_Falling_Velocity.Form1.resources
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E2_Falling Velocity\C6E2_Falling Velocity\obj\Debug\net5.0-windows\C6E2_Falling Velocity.csproj.GenerateResource.cache
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E2_Falling Velocity\C6E2_Falling Velocity\obj\Debug\net5.0-windows\C6E2_Falling Velocity.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E2_Falling Velocity\C6E2_Falling Velocity\obj\Debug\net5.0-windows\C6E2_Falling Velocity.AssemblyInfoInputs.cache
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E2_Falling Velocity\C6E2_Falling Velocity\obj\Debug\net5.0-windows\C6E2_Falling Velocity.AssemblyInfo.cs
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E2_Falling Velocity\C6E2_Falling Velocity\obj\Debug\net5.0-windows\C6E2_Falling Velocity.csproj.CoreCompileInputs.cache
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E2_Falling Velocity\C6E2_Falling Velocity\obj\Debug\net5.0-windows\C6E2_Falling Velocity.dll
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E2_Falling Velocity\C6E2_Falling Velocity\obj\Debug\net5.0-windows\ref\C6E2_Falling Velocity.dll
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E2_Falling Velocity\C6E2_Falling Velocity\obj\Debug\net5.0-windows\C6E2_Falling Velocity.pdb
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E2_Falling Velocity\C6E2_Falling Velocity\obj\Debug\net5.0-windows\C6E2_Falling Velocity.genruntimeconfig.cache

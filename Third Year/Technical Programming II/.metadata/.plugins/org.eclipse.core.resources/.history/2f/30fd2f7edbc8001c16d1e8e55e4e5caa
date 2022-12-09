@@ -1,0 +1,34 @@
+package ch8exercise3;
+
+/**
+ *
+ * @author Christoph
+ */
+public class Day {
+    
+    private int dayNo;
+    private String day;
+    
+                    //Constructors
+    //Default Constructor
+    public Day()
+    {
+        dayNo = 1;
+        day = "Mon";
+    }
+    
+    //Constructor with parameter
+    public Day(int day)
+    {
+        if (day > 0)
+            this.dayNo = day;
+        else
+            this.dayNo = 1;
+    }
+    
+    
+                    //Methods
+    //Method to Determine day of the week
+    public 
+    
+}

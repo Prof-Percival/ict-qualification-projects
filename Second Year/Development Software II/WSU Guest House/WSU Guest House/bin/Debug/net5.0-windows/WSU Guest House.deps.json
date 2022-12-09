@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WSU Guest House/1.0.0": {
+        "runtime": {
+          "WSU Guest House.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WSU Guest House/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

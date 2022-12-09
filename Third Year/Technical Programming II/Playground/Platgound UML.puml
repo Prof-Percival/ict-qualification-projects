@@ -1,0 +1,7 @@
+@startuml
+class java.util.Arrays
+class java.util.Scanner
+class pg.Playground
+pg.Playground ..> java.util.Arrays
+pg.Playground ..> java.util.Scanner
+@enduml

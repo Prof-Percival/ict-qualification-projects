@@ -1,0 +1,36 @@
+C:\Users\wwwpe\source\repos\Soccer Team PercDisplayer\Soccer Team PercDisplayer\bin\Debug\net5.0-windows\Soccer Team PercDisplayer.exe
+C:\Users\wwwpe\source\repos\Soccer Team PercDisplayer\Soccer Team PercDisplayer\bin\Debug\net5.0-windows\Soccer Team PercDisplayer.deps.json
+C:\Users\wwwpe\source\repos\Soccer Team PercDisplayer\Soccer Team PercDisplayer\bin\Debug\net5.0-windows\Soccer Team PercDisplayer.runtimeconfig.json
+C:\Users\wwwpe\source\repos\Soccer Team PercDisplayer\Soccer Team PercDisplayer\bin\Debug\net5.0-windows\Soccer Team PercDisplayer.runtimeconfig.dev.json
+C:\Users\wwwpe\source\repos\Soccer Team PercDisplayer\Soccer Team PercDisplayer\bin\Debug\net5.0-windows\Soccer Team PercDisplayer.dll
+C:\Users\wwwpe\source\repos\Soccer Team PercDisplayer\Soccer Team PercDisplayer\bin\Debug\net5.0-windows\ref\Soccer Team PercDisplayer.dll
+C:\Users\wwwpe\source\repos\Soccer Team PercDisplayer\Soccer Team PercDisplayer\bin\Debug\net5.0-windows\Soccer Team PercDisplayer.pdb
+C:\Users\wwwpe\source\repos\Soccer Team PercDisplayer\Soccer Team PercDisplayer\obj\Debug\net5.0-windows\Soccer Team PercDisplayer.vbproj.AssemblyReference.cache
+C:\Users\wwwpe\source\repos\Soccer Team PercDisplayer\Soccer Team PercDisplayer\obj\Debug\net5.0-windows\Soccer_Team_PercDisplayer.Form1.resources
+C:\Users\wwwpe\source\repos\Soccer Team PercDisplayer\Soccer Team PercDisplayer\obj\Debug\net5.0-windows\Soccer Team PercDisplayer.vbproj.GenerateResource.cache
+C:\Users\wwwpe\source\repos\Soccer Team PercDisplayer\Soccer Team PercDisplayer\obj\Debug\net5.0-windows\Soccer Team PercDisplayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwpe\source\repos\Soccer Team PercDisplayer\Soccer Team PercDisplayer\obj\Debug\net5.0-windows\Soccer Team PercDisplayer.AssemblyInfoInputs.cache
+C:\Users\wwwpe\source\repos\Soccer Team PercDisplayer\Soccer Team PercDisplayer\obj\Debug\net5.0-windows\Soccer Team PercDisplayer.AssemblyInfo.vb
+C:\Users\wwwpe\source\repos\Soccer Team PercDisplayer\Soccer Team PercDisplayer\obj\Debug\net5.0-windows\Soccer Team PercDisplayer.vbproj.CoreCompileInputs.cache
+C:\Users\wwwpe\source\repos\Soccer Team PercDisplayer\Soccer Team PercDisplayer\obj\Debug\net5.0-windows\Soccer Team PercDisplayer.dll
+C:\Users\wwwpe\source\repos\Soccer Team PercDisplayer\Soccer Team PercDisplayer\obj\Debug\net5.0-windows\ref\Soccer Team PercDisplayer.dll
+C:\Users\wwwpe\source\repos\Soccer Team PercDisplayer\Soccer Team PercDisplayer\obj\Debug\net5.0-windows\Soccer Team PercDisplayer.pdb
+C:\Users\wwwpe\source\repos\Soccer Team PercDisplayer\Soccer Team PercDisplayer\obj\Debug\net5.0-windows\Soccer Team PercDisplayer.genruntimeconfig.cache
+E:\PROJECTS\DES25P0\Soccer Team PercDisplayer\Soccer Team PercDisplayer\bin\Debug\net5.0-windows\Soccer Team PercDisplayer.exe
+E:\PROJECTS\DES25P0\Soccer Team PercDisplayer\Soccer Team PercDisplayer\bin\Debug\net5.0-windows\Soccer Team PercDisplayer.deps.json
+E:\PROJECTS\DES25P0\Soccer Team PercDisplayer\Soccer Team PercDisplayer\bin\Debug\net5.0-windows\Soccer Team PercDisplayer.runtimeconfig.json
+E:\PROJECTS\DES25P0\Soccer Team PercDisplayer\Soccer Team PercDisplayer\bin\Debug\net5.0-windows\Soccer Team PercDisplayer.runtimeconfig.dev.json
+E:\PROJECTS\DES25P0\Soccer Team PercDisplayer\Soccer Team PercDisplayer\bin\Debug\net5.0-windows\Soccer Team PercDisplayer.dll
+E:\PROJECTS\DES25P0\Soccer Team PercDisplayer\Soccer Team PercDisplayer\bin\Debug\net5.0-windows\ref\Soccer Team PercDisplayer.dll
+E:\PROJECTS\DES25P0\Soccer Team PercDisplayer\Soccer Team PercDisplayer\bin\Debug\net5.0-windows\Soccer Team PercDisplayer.pdb
+E:\PROJECTS\DES25P0\Soccer Team PercDisplayer\Soccer Team PercDisplayer\obj\Debug\net5.0-windows\Soccer Team PercDisplayer.vbproj.AssemblyReference.cache
+E:\PROJECTS\DES25P0\Soccer Team PercDisplayer\Soccer Team PercDisplayer\obj\Debug\net5.0-windows\Soccer_Team_PercDisplayer.Form1.resources
+E:\PROJECTS\DES25P0\Soccer Team PercDisplayer\Soccer Team PercDisplayer\obj\Debug\net5.0-windows\Soccer Team PercDisplayer.vbproj.GenerateResource.cache
+E:\PROJECTS\DES25P0\Soccer Team PercDisplayer\Soccer Team PercDisplayer\obj\Debug\net5.0-windows\Soccer Team PercDisplayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\DES25P0\Soccer Team PercDisplayer\Soccer Team PercDisplayer\obj\Debug\net5.0-windows\Soccer Team PercDisplayer.AssemblyInfoInputs.cache
+E:\PROJECTS\DES25P0\Soccer Team PercDisplayer\Soccer Team PercDisplayer\obj\Debug\net5.0-windows\Soccer Team PercDisplayer.AssemblyInfo.vb
+E:\PROJECTS\DES25P0\Soccer Team PercDisplayer\Soccer Team PercDisplayer\obj\Debug\net5.0-windows\Soccer Team PercDisplayer.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\DES25P0\Soccer Team PercDisplayer\Soccer Team PercDisplayer\obj\Debug\net5.0-windows\Soccer Team PercDisplayer.dll
+E:\PROJECTS\DES25P0\Soccer Team PercDisplayer\Soccer Team PercDisplayer\obj\Debug\net5.0-windows\ref\Soccer Team PercDisplayer.dll
+E:\PROJECTS\DES25P0\Soccer Team PercDisplayer\Soccer Team PercDisplayer\obj\Debug\net5.0-windows\Soccer Team PercDisplayer.pdb
+E:\PROJECTS\DES25P0\Soccer Team PercDisplayer\Soccer Team PercDisplayer\obj\Debug\net5.0-windows\Soccer Team PercDisplayer.genruntimeconfig.cache

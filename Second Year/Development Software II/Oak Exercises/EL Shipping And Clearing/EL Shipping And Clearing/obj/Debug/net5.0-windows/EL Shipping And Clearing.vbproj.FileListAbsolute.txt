@@ -1,0 +1,19 @@
+E:\PROJECTS\3rd Year\DES25P0\Oak Exercises\EL Shipping And Clearing\EL Shipping And Clearing\bin\Debug\net5.0-windows\EL Shipping And Clearing.exe
+E:\PROJECTS\3rd Year\DES25P0\Oak Exercises\EL Shipping And Clearing\EL Shipping And Clearing\bin\Debug\net5.0-windows\EL Shipping And Clearing.deps.json
+E:\PROJECTS\3rd Year\DES25P0\Oak Exercises\EL Shipping And Clearing\EL Shipping And Clearing\bin\Debug\net5.0-windows\EL Shipping And Clearing.runtimeconfig.json
+E:\PROJECTS\3rd Year\DES25P0\Oak Exercises\EL Shipping And Clearing\EL Shipping And Clearing\bin\Debug\net5.0-windows\EL Shipping And Clearing.runtimeconfig.dev.json
+E:\PROJECTS\3rd Year\DES25P0\Oak Exercises\EL Shipping And Clearing\EL Shipping And Clearing\bin\Debug\net5.0-windows\EL Shipping And Clearing.dll
+E:\PROJECTS\3rd Year\DES25P0\Oak Exercises\EL Shipping And Clearing\EL Shipping And Clearing\bin\Debug\net5.0-windows\ref\EL Shipping And Clearing.dll
+E:\PROJECTS\3rd Year\DES25P0\Oak Exercises\EL Shipping And Clearing\EL Shipping And Clearing\bin\Debug\net5.0-windows\EL Shipping And Clearing.pdb
+E:\PROJECTS\3rd Year\DES25P0\Oak Exercises\EL Shipping And Clearing\EL Shipping And Clearing\obj\Debug\net5.0-windows\EL Shipping And Clearing.vbproj.AssemblyReference.cache
+E:\PROJECTS\3rd Year\DES25P0\Oak Exercises\EL Shipping And Clearing\EL Shipping And Clearing\obj\Debug\net5.0-windows\EL_Shipping_And_Clearing.Form1.resources
+E:\PROJECTS\3rd Year\DES25P0\Oak Exercises\EL Shipping And Clearing\EL Shipping And Clearing\obj\Debug\net5.0-windows\EL_Shipping_And_Clearing.Resources.resources
+E:\PROJECTS\3rd Year\DES25P0\Oak Exercises\EL Shipping And Clearing\EL Shipping And Clearing\obj\Debug\net5.0-windows\EL Shipping And Clearing.vbproj.GenerateResource.cache
+E:\PROJECTS\3rd Year\DES25P0\Oak Exercises\EL Shipping And Clearing\EL Shipping And Clearing\obj\Debug\net5.0-windows\EL Shipping And Clearing.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\3rd Year\DES25P0\Oak Exercises\EL Shipping And Clearing\EL Shipping And Clearing\obj\Debug\net5.0-windows\EL Shipping And Clearing.AssemblyInfoInputs.cache
+E:\PROJECTS\3rd Year\DES25P0\Oak Exercises\EL Shipping And Clearing\EL Shipping And Clearing\obj\Debug\net5.0-windows\EL Shipping And Clearing.AssemblyInfo.vb
+E:\PROJECTS\3rd Year\DES25P0\Oak Exercises\EL Shipping And Clearing\EL Shipping And Clearing\obj\Debug\net5.0-windows\EL Shipping And Clearing.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\3rd Year\DES25P0\Oak Exercises\EL Shipping And Clearing\EL Shipping And Clearing\obj\Debug\net5.0-windows\EL Shipping And Clearing.dll
+E:\PROJECTS\3rd Year\DES25P0\Oak Exercises\EL Shipping And Clearing\EL Shipping And Clearing\obj\Debug\net5.0-windows\ref\EL Shipping And Clearing.dll
+E:\PROJECTS\3rd Year\DES25P0\Oak Exercises\EL Shipping And Clearing\EL Shipping And Clearing\obj\Debug\net5.0-windows\EL Shipping And Clearing.pdb
+E:\PROJECTS\3rd Year\DES25P0\Oak Exercises\EL Shipping And Clearing\EL Shipping And Clearing\obj\Debug\net5.0-windows\EL Shipping And Clearing.genruntimeconfig.cache

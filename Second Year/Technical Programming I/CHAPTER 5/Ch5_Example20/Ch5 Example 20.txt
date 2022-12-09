@@ -1,0 +1,14 @@
+Consider the following data residing in a file:
+
+	65 78 65 89 25 98 -999
+	87 34 89 99 26 78 64 34 -999
+	23 99 98 97 26 78 100 63 87 23 -999
+	62 35 78 99 12 93 19 -999
+
+The number -999 at the end of each line acts as a sentinel and, therefore, it is not part of the data. 
+
+Our objective is to find the sum of the numbers in each line and output the sum.
+
+Moreover, assume that this data is to be read from a file, say, Exp_5_20.txt. 
+
+We assume that the input file has been opened using the input file stream variable inFile.

@@ -1,0 +1,17 @@
+E:\PROJECTS\DES25P0\Zantsi Online Shopping Club\Zantsi Online Shopping Club\bin\Debug\net5.0-windows\Zantsi Online Shopping Club.exe
+E:\PROJECTS\DES25P0\Zantsi Online Shopping Club\Zantsi Online Shopping Club\bin\Debug\net5.0-windows\Zantsi Online Shopping Club.deps.json
+E:\PROJECTS\DES25P0\Zantsi Online Shopping Club\Zantsi Online Shopping Club\bin\Debug\net5.0-windows\Zantsi Online Shopping Club.runtimeconfig.json
+E:\PROJECTS\DES25P0\Zantsi Online Shopping Club\Zantsi Online Shopping Club\bin\Debug\net5.0-windows\Zantsi Online Shopping Club.runtimeconfig.dev.json
+E:\PROJECTS\DES25P0\Zantsi Online Shopping Club\Zantsi Online Shopping Club\bin\Debug\net5.0-windows\Zantsi Online Shopping Club.dll
+E:\PROJECTS\DES25P0\Zantsi Online Shopping Club\Zantsi Online Shopping Club\bin\Debug\net5.0-windows\ref\Zantsi Online Shopping Club.dll
+E:\PROJECTS\DES25P0\Zantsi Online Shopping Club\Zantsi Online Shopping Club\bin\Debug\net5.0-windows\Zantsi Online Shopping Club.pdb
+E:\PROJECTS\DES25P0\Zantsi Online Shopping Club\Zantsi Online Shopping Club\obj\Debug\net5.0-windows\Zantsi_Online_Shopping_Club.Form1.resources
+E:\PROJECTS\DES25P0\Zantsi Online Shopping Club\Zantsi Online Shopping Club\obj\Debug\net5.0-windows\Zantsi Online Shopping Club.vbproj.GenerateResource.cache
+E:\PROJECTS\DES25P0\Zantsi Online Shopping Club\Zantsi Online Shopping Club\obj\Debug\net5.0-windows\Zantsi Online Shopping Club.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\DES25P0\Zantsi Online Shopping Club\Zantsi Online Shopping Club\obj\Debug\net5.0-windows\Zantsi Online Shopping Club.AssemblyInfoInputs.cache
+E:\PROJECTS\DES25P0\Zantsi Online Shopping Club\Zantsi Online Shopping Club\obj\Debug\net5.0-windows\Zantsi Online Shopping Club.AssemblyInfo.vb
+E:\PROJECTS\DES25P0\Zantsi Online Shopping Club\Zantsi Online Shopping Club\obj\Debug\net5.0-windows\Zantsi Online Shopping Club.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\DES25P0\Zantsi Online Shopping Club\Zantsi Online Shopping Club\obj\Debug\net5.0-windows\Zantsi Online Shopping Club.dll
+E:\PROJECTS\DES25P0\Zantsi Online Shopping Club\Zantsi Online Shopping Club\obj\Debug\net5.0-windows\ref\Zantsi Online Shopping Club.dll
+E:\PROJECTS\DES25P0\Zantsi Online Shopping Club\Zantsi Online Shopping Club\obj\Debug\net5.0-windows\Zantsi Online Shopping Club.pdb
+E:\PROJECTS\DES25P0\Zantsi Online Shopping Club\Zantsi Online Shopping Club\obj\Debug\net5.0-windows\Zantsi Online Shopping Club.genruntimeconfig.cache

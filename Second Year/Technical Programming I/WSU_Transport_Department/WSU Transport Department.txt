@@ -1,0 +1,26 @@
+A Walter Sisulu University Transport Department has requested you to develop an application 
+that will assist computer transport claims from staff members who use their cars to travel to work. 
+
+The application specification is as follows:  
+
+The claim rates are typically based on the engine capacity of the vehicle number. For example:
+
+1 - 1600 litres            2.50 Rands per kilometer
+1601 - 2500 litres         3.00 Rands per kilometre
+2501 - 3500 litres	   3.50 Rands per kilometre
+3501 - 4500 litres	   4.00 Rands per kilometre
+over 4500                  4.50 Rands per kilometre
+
+Create a transport claims application that prompts the user for the engine capacity of the vehicle and then determines the rate per kilometer. 
+
+The program then prompts the user for the number kilometers travelled and computes the total amount claimed. 
+
+Total amount claimed = Rands per kilometer * kilometers travelled
+
+Application output should look similar to:
+
+	Enter the engine capacity of the vehicle: 2500
+	Rands per kilometer is: R3.00
+
+	Enter the number of kilometers travelled: 1000
+        Total amount claimed is: R3000 

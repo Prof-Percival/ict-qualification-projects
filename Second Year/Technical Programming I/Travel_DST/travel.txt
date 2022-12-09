@@ -1,0 +1,3 @@
+Distance = 375,00km
+Speed = 58,00km/h
+Time = 6,466h

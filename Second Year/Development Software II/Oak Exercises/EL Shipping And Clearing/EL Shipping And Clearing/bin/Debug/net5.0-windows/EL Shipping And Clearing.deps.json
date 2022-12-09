@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EL Shipping And Clearing/1.0.0": {
+        "runtime": {
+          "EL Shipping And Clearing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EL Shipping And Clearing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+Pick n Pay has a registry of customers and each customer has an account. 
+
+A customer is described by name, address, telephone and account. 
+
+Each account is described by account id, type, points and the date of registration. 
+
+The following objects/classes have been identified: Customer and Account.
+
+Object customer has got a method to find out the discounted amount. 
+
+The Discounted amount is based on the table given below.
+
+		Points 			Discounted Amount
+	        Less than 500 				0
+	        >=500 and <=1000 			50
+	        More than 1000 			100
+
+
+1. Draw a UML diagram showing the relationship between the classes. Show the members of each class.
+
+2. Convert the class diagram into a java program with getters, setters, constructors.
+
+3. Create a Tester class that creates an instance for each class and display the discounted Amount using toString()

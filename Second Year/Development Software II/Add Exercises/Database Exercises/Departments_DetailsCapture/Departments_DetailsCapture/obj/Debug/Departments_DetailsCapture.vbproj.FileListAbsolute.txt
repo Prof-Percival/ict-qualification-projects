@@ -1,0 +1,26 @@
+C:\Users\wwwpe\source\repos\Departments_DetailsCapture\Departments_DetailsCapture\bin\Debug\Departments_DetailsCapture.exe.config
+C:\Users\wwwpe\source\repos\Departments_DetailsCapture\Departments_DetailsCapture\bin\Debug\Departments_DetailsCapture.exe
+C:\Users\wwwpe\source\repos\Departments_DetailsCapture\Departments_DetailsCapture\bin\Debug\Departments_DetailsCapture.pdb
+C:\Users\wwwpe\source\repos\Departments_DetailsCapture\Departments_DetailsCapture\bin\Debug\Departments_DetailsCapture.xml
+C:\Users\wwwpe\source\repos\Departments_DetailsCapture\Departments_DetailsCapture\obj\Debug\Departments_DetailsCapture.vbproj.AssemblyReference.cache
+C:\Users\wwwpe\source\repos\Departments_DetailsCapture\Departments_DetailsCapture\obj\Debug\Departments_DetailsCapture.Form1.resources
+C:\Users\wwwpe\source\repos\Departments_DetailsCapture\Departments_DetailsCapture\obj\Debug\Departments_DetailsCapture.Resources.resources
+C:\Users\wwwpe\source\repos\Departments_DetailsCapture\Departments_DetailsCapture\obj\Debug\Departments_DetailsCapture.vbproj.GenerateResource.cache
+C:\Users\wwwpe\source\repos\Departments_DetailsCapture\Departments_DetailsCapture\obj\Debug\Departments_DetailsCapture.vbproj.CoreCompileInputs.cache
+C:\Users\wwwpe\source\repos\Departments_DetailsCapture\Departments_DetailsCapture\obj\Debug\Departments_DetailsCapture.exe
+C:\Users\wwwpe\source\repos\Departments_DetailsCapture\Departments_DetailsCapture\obj\Debug\Departments_DetailsCapture.xml
+C:\Users\wwwpe\source\repos\Departments_DetailsCapture\Departments_DetailsCapture\obj\Debug\Departments_DetailsCapture.pdb
+C:\Users\wwwpe\source\repos\Departments_DetailsCapture\Departments_DetailsCapture\bin\Debug\Departments.accdb
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\Database Exercises\Departments_DetailsCapture\Departments_DetailsCapture\bin\Debug\Departments.accdb
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\Database Exercises\Departments_DetailsCapture\Departments_DetailsCapture\bin\Debug\Departments_DetailsCapture.exe.config
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\Database Exercises\Departments_DetailsCapture\Departments_DetailsCapture\bin\Debug\Departments_DetailsCapture.exe
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\Database Exercises\Departments_DetailsCapture\Departments_DetailsCapture\bin\Debug\Departments_DetailsCapture.pdb
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\Database Exercises\Departments_DetailsCapture\Departments_DetailsCapture\bin\Debug\Departments_DetailsCapture.xml
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\Database Exercises\Departments_DetailsCapture\Departments_DetailsCapture\obj\Debug\Departments_DetailsCapture.vbproj.AssemblyReference.cache
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\Database Exercises\Departments_DetailsCapture\Departments_DetailsCapture\obj\Debug\Departments_DetailsCapture.Form1.resources
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\Database Exercises\Departments_DetailsCapture\Departments_DetailsCapture\obj\Debug\Departments_DetailsCapture.Resources.resources
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\Database Exercises\Departments_DetailsCapture\Departments_DetailsCapture\obj\Debug\Departments_DetailsCapture.vbproj.GenerateResource.cache
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\Database Exercises\Departments_DetailsCapture\Departments_DetailsCapture\obj\Debug\Departments_DetailsCapture.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\Database Exercises\Departments_DetailsCapture\Departments_DetailsCapture\obj\Debug\Departments_DetailsCapture.exe
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\Database Exercises\Departments_DetailsCapture\Departments_DetailsCapture\obj\Debug\Departments_DetailsCapture.xml
+E:\PROJECTS\3rd Year\DES25P0\Add Exercises\Database Exercises\Departments_DetailsCapture\Departments_DetailsCapture\obj\Debug\Departments_DetailsCapture.pdb

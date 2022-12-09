@@ -1,0 +1,18 @@
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E3_Kinetic Energy\C6E3_Kinetic Energy\bin\Debug\net5.0-windows\C6E3_Kinetic Energy.exe
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E3_Kinetic Energy\C6E3_Kinetic Energy\bin\Debug\net5.0-windows\C6E3_Kinetic Energy.deps.json
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E3_Kinetic Energy\C6E3_Kinetic Energy\bin\Debug\net5.0-windows\C6E3_Kinetic Energy.runtimeconfig.json
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E3_Kinetic Energy\C6E3_Kinetic Energy\bin\Debug\net5.0-windows\C6E3_Kinetic Energy.runtimeconfig.dev.json
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E3_Kinetic Energy\C6E3_Kinetic Energy\bin\Debug\net5.0-windows\C6E3_Kinetic Energy.dll
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E3_Kinetic Energy\C6E3_Kinetic Energy\bin\Debug\net5.0-windows\ref\C6E3_Kinetic Energy.dll
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E3_Kinetic Energy\C6E3_Kinetic Energy\bin\Debug\net5.0-windows\C6E3_Kinetic Energy.pdb
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E3_Kinetic Energy\C6E3_Kinetic Energy\obj\Debug\net5.0-windows\C6E3_Kinetic Energy.csproj.AssemblyReference.cache
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E3_Kinetic Energy\C6E3_Kinetic Energy\obj\Debug\net5.0-windows\C6E3_Kinetic_Energy.Form1.resources
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E3_Kinetic Energy\C6E3_Kinetic Energy\obj\Debug\net5.0-windows\C6E3_Kinetic Energy.csproj.GenerateResource.cache
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E3_Kinetic Energy\C6E3_Kinetic Energy\obj\Debug\net5.0-windows\C6E3_Kinetic Energy.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E3_Kinetic Energy\C6E3_Kinetic Energy\obj\Debug\net5.0-windows\C6E3_Kinetic Energy.AssemblyInfoInputs.cache
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E3_Kinetic Energy\C6E3_Kinetic Energy\obj\Debug\net5.0-windows\C6E3_Kinetic Energy.AssemblyInfo.cs
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E3_Kinetic Energy\C6E3_Kinetic Energy\obj\Debug\net5.0-windows\C6E3_Kinetic Energy.csproj.CoreCompileInputs.cache
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E3_Kinetic Energy\C6E3_Kinetic Energy\obj\Debug\net5.0-windows\C6E3_Kinetic Energy.dll
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E3_Kinetic Energy\C6E3_Kinetic Energy\obj\Debug\net5.0-windows\ref\C6E3_Kinetic Energy.dll
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E3_Kinetic Energy\C6E3_Kinetic Energy\obj\Debug\net5.0-windows\C6E3_Kinetic Energy.pdb
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E3_Kinetic Energy\C6E3_Kinetic Energy\obj\Debug\net5.0-windows\C6E3_Kinetic Energy.genruntimeconfig.cache

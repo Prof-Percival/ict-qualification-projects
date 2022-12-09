@@ -1,0 +1,43 @@
+VIP Transport, which operates a car hire service in East London, requires a program which will track trips by its drivers. 
+
+A trip is described by car id, destination and distance. 
+
+The program is to calculate the total fare for each trip as follows: 
+
+	if distance is <=20 kilometres, the fare payable R50.00; 
+	if the distance is more than 20 kilometres, any additional kilometre is charged at R2.00
+
+1. Draw a class Trip for the problem. Show the members of the class. 
+
+2. Convert Trip to a Java program. (Your program should contain two constructors and get and set methods)
+
+3. Create a class TestTrip which creates an instance of the class Trip and displays the information about a trip and the fare payable by a passenger. 
+
+Output is shown below 
+
+Car Id: car001
+Destination: Ocean Villas
+Distance: 150.0km
+Total Fare payable: R310.0
+
+
+EXERCISE – 2
+Alter the previous program(Exercise 1) by changing ONLY the third point.
+
+3. Create a TestTrip class that creates three instances of the Trip class and display the following information on the screen.
+
+
+Car Id: 007 BOND
+Destination: Cape Town
+Distance: 250.0Km
+Total Fare payable: R510.0 
+
+Car Id: 111 RAJ
+Destination: Greenfields
+Distance: 15.0Km
+Total Fare payable: R50.0
+
+Car Id: 111 JON
+Destination: Port Elizabeth
+Distance: 150.0Km
+Total Fare payable: R310.0 

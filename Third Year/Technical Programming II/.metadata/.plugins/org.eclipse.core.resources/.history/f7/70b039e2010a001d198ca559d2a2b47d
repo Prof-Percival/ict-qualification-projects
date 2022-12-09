@@ -1,0 +1,11 @@
+package guess;
+
+public class GuessNumber {
+
+	public static void main(String[] args) 
+	{
+		int name = 5;
+		
+		System.out.println(name);
+	}
+}

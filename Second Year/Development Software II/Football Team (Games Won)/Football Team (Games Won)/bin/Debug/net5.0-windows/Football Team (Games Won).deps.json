@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Football Team (Games Won)/1.0.0": {
+        "runtime": {
+          "Football Team (Games Won).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Football Team (Games Won)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

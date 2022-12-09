@@ -1,0 +1,20 @@
+A paint factory is taking orders for different colours of paint. 
+
+The program must perform the following for 100 customers.
+
+One customer can only order one colour.
+	
+Details are:
+
+	COLOUR	CODE	PRICE PER LITRE
+	WHITE	WT	R20.00
+	GREEN	GN	R35.00
+	SILVER	SR	R45.00  
+
+Write a program which will accept the code of the colour wanted and the number of litres.
+
+A customer will receive a discount of 10% off the calculated price if the calculated price is more than R1000.00
+
+If the data is not valid, display a message which explains the error(s) and do not do the calculations.
+
+Your program should calculate and display the final price the customer must pay after discount (if any) has been subtracted.

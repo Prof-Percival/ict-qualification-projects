@@ -1,0 +1,32 @@
+BankAccount: 
+
+Every bank account has an account number, the name of the owner, and a balance. 
+
+Therefore, instance variables name, accountNumber, and balance are declared in the abstract class BankAccount. 
+
+Some operations common to all types of accounts are to retrieve the account owner’s name, the account number, the account balance, make deposits, withdraw money, and create a monthly statement. 
+
+So we include methods to implement these operations. 
+
+Furthermore, some of these methods will be abstract. 
+
+We also include the method toString to return the appropriate information about the class as a string.
+
+
+The UML class diagram of the class BankAccount is shown in Figure 10-8 (p.628) D.S Malik
+
+BankAccount (Abstract class)
+
+#accountNumber: int
+#name: String
+#balance: double
+
++BankAccount(String, int, double)
++getAccountNumber(): int
++getBalance(): double
++getName(): String
++setName(String): void
++withdraw(double): void
++deposit(double): void
++createMonthlyStatement(): abstract void
++String toString()

@@ -1,0 +1,36 @@
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\bin\Debug\net5.0-windows\C6E5_Joe's Automotive.exe
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\bin\Debug\net5.0-windows\C6E5_Joe's Automotive.deps.json
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\bin\Debug\net5.0-windows\C6E5_Joe's Automotive.runtimeconfig.json
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\bin\Debug\net5.0-windows\C6E5_Joe's Automotive.runtimeconfig.dev.json
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\bin\Debug\net5.0-windows\C6E5_Joe's Automotive.dll
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\bin\Debug\net5.0-windows\ref\C6E5_Joe's Automotive.dll
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\bin\Debug\net5.0-windows\C6E5_Joe's Automotive.pdb
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\obj\Debug\net5.0-windows\C6E5_Joe's Automotive.csproj.AssemblyReference.cache
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\obj\Debug\net5.0-windows\C6E5_Joe_s_Automotive.Form1.resources
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\obj\Debug\net5.0-windows\C6E5_Joe's Automotive.csproj.GenerateResource.cache
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\obj\Debug\net5.0-windows\C6E5_Joe's Automotive.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\obj\Debug\net5.0-windows\C6E5_Joe's Automotive.AssemblyInfoInputs.cache
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\obj\Debug\net5.0-windows\C6E5_Joe's Automotive.AssemblyInfo.cs
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\obj\Debug\net5.0-windows\C6E5_Joe's Automotive.csproj.CoreCompileInputs.cache
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\obj\Debug\net5.0-windows\C6E5_Joe's Automotive.dll
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\obj\Debug\net5.0-windows\ref\C6E5_Joe's Automotive.dll
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\obj\Debug\net5.0-windows\C6E5_Joe's Automotive.pdb
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\obj\Debug\net5.0-windows\C6E5_Joe's Automotive.genruntimeconfig.cache
+F:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\bin\Debug\net5.0-windows\C6E5_Joe's Automotive.exe
+F:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\bin\Debug\net5.0-windows\C6E5_Joe's Automotive.deps.json
+F:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\bin\Debug\net5.0-windows\C6E5_Joe's Automotive.runtimeconfig.json
+F:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\bin\Debug\net5.0-windows\C6E5_Joe's Automotive.runtimeconfig.dev.json
+F:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\bin\Debug\net5.0-windows\C6E5_Joe's Automotive.dll
+F:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\bin\Debug\net5.0-windows\ref\C6E5_Joe's Automotive.dll
+F:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\bin\Debug\net5.0-windows\C6E5_Joe's Automotive.pdb
+F:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\obj\Debug\net5.0-windows\C6E5_Joe's Automotive.csproj.AssemblyReference.cache
+F:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\obj\Debug\net5.0-windows\C6E5_Joe_s_Automotive.Form1.resources
+F:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\obj\Debug\net5.0-windows\C6E5_Joe's Automotive.csproj.GenerateResource.cache
+F:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\obj\Debug\net5.0-windows\C6E5_Joe's Automotive.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\obj\Debug\net5.0-windows\C6E5_Joe's Automotive.AssemblyInfoInputs.cache
+F:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\obj\Debug\net5.0-windows\C6E5_Joe's Automotive.AssemblyInfo.cs
+F:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\obj\Debug\net5.0-windows\C6E5_Joe's Automotive.csproj.CoreCompileInputs.cache
+F:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\obj\Debug\net5.0-windows\C6E5_Joe's Automotive.dll
+F:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\obj\Debug\net5.0-windows\ref\C6E5_Joe's Automotive.dll
+F:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\obj\Debug\net5.0-windows\C6E5_Joe's Automotive.pdb
+F:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E5_Joe's Automotive\C6E5_Joe's Automotive\obj\Debug\net5.0-windows\C6E5_Joe's Automotive.genruntimeconfig.cache

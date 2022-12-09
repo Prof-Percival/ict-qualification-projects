@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_Zp6HcF4LEe23t8l7AQNq1Q">
+  <modelElement href="GAME%20Guess%20Number.uml#_Zmb8sF4LEe23t8l7AQNq1Q"/>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_HbbS4F4NEe23t8l7AQNq1Q" name="GAME_Guess_Number">
+    <modelElement href="GAME%20Guess%20Number.uml#_Zmb8sF4LEe23t8l7AQNq1Q"/>
+    <visualProperties xmi:id="_Hbb58F4NEe23t8l7AQNq1Q" position="0.0,0.0" size="597.0,211.0"/>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>

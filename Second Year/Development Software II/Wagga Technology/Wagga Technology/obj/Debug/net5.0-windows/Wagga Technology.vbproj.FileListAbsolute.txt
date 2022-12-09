@@ -1,0 +1,36 @@
+E:\PROJECTS\DES25P0\Wagga Technology\Wagga Technology\bin\Debug\net5.0-windows\Wagga Technology.exe
+E:\PROJECTS\DES25P0\Wagga Technology\Wagga Technology\bin\Debug\net5.0-windows\Wagga Technology.deps.json
+E:\PROJECTS\DES25P0\Wagga Technology\Wagga Technology\bin\Debug\net5.0-windows\Wagga Technology.runtimeconfig.json
+E:\PROJECTS\DES25P0\Wagga Technology\Wagga Technology\bin\Debug\net5.0-windows\Wagga Technology.runtimeconfig.dev.json
+E:\PROJECTS\DES25P0\Wagga Technology\Wagga Technology\bin\Debug\net5.0-windows\Wagga Technology.dll
+E:\PROJECTS\DES25P0\Wagga Technology\Wagga Technology\bin\Debug\net5.0-windows\ref\Wagga Technology.dll
+E:\PROJECTS\DES25P0\Wagga Technology\Wagga Technology\bin\Debug\net5.0-windows\Wagga Technology.pdb
+E:\PROJECTS\DES25P0\Wagga Technology\Wagga Technology\obj\Debug\net5.0-windows\Wagga_Technology.Form1.resources
+E:\PROJECTS\DES25P0\Wagga Technology\Wagga Technology\obj\Debug\net5.0-windows\Wagga Technology.vbproj.GenerateResource.cache
+E:\PROJECTS\DES25P0\Wagga Technology\Wagga Technology\obj\Debug\net5.0-windows\Wagga Technology.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\DES25P0\Wagga Technology\Wagga Technology\obj\Debug\net5.0-windows\Wagga Technology.AssemblyInfoInputs.cache
+E:\PROJECTS\DES25P0\Wagga Technology\Wagga Technology\obj\Debug\net5.0-windows\Wagga Technology.AssemblyInfo.vb
+E:\PROJECTS\DES25P0\Wagga Technology\Wagga Technology\obj\Debug\net5.0-windows\Wagga Technology.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\DES25P0\Wagga Technology\Wagga Technology\obj\Debug\net5.0-windows\Wagga Technology.dll
+E:\PROJECTS\DES25P0\Wagga Technology\Wagga Technology\obj\Debug\net5.0-windows\ref\Wagga Technology.dll
+E:\PROJECTS\DES25P0\Wagga Technology\Wagga Technology\obj\Debug\net5.0-windows\Wagga Technology.pdb
+E:\PROJECTS\DES25P0\Wagga Technology\Wagga Technology\obj\Debug\net5.0-windows\Wagga Technology.genruntimeconfig.cache
+E:\PROJECTS\DES25P0\Wagga Technology\Wagga Technology\obj\Debug\net5.0-windows\Wagga Technology.vbproj.AssemblyReference.cache
+E:\PROJECTS\3rd Year\DES25P0\Wagga Technology\Wagga Technology\bin\Debug\net5.0-windows\Wagga Technology.exe
+E:\PROJECTS\3rd Year\DES25P0\Wagga Technology\Wagga Technology\bin\Debug\net5.0-windows\Wagga Technology.deps.json
+E:\PROJECTS\3rd Year\DES25P0\Wagga Technology\Wagga Technology\bin\Debug\net5.0-windows\Wagga Technology.runtimeconfig.json
+E:\PROJECTS\3rd Year\DES25P0\Wagga Technology\Wagga Technology\bin\Debug\net5.0-windows\Wagga Technology.runtimeconfig.dev.json
+E:\PROJECTS\3rd Year\DES25P0\Wagga Technology\Wagga Technology\bin\Debug\net5.0-windows\Wagga Technology.dll
+E:\PROJECTS\3rd Year\DES25P0\Wagga Technology\Wagga Technology\bin\Debug\net5.0-windows\ref\Wagga Technology.dll
+E:\PROJECTS\3rd Year\DES25P0\Wagga Technology\Wagga Technology\bin\Debug\net5.0-windows\Wagga Technology.pdb
+E:\PROJECTS\3rd Year\DES25P0\Wagga Technology\Wagga Technology\obj\Debug\net5.0-windows\Wagga Technology.vbproj.AssemblyReference.cache
+E:\PROJECTS\3rd Year\DES25P0\Wagga Technology\Wagga Technology\obj\Debug\net5.0-windows\Wagga_Technology.Form1.resources
+E:\PROJECTS\3rd Year\DES25P0\Wagga Technology\Wagga Technology\obj\Debug\net5.0-windows\Wagga Technology.vbproj.GenerateResource.cache
+E:\PROJECTS\3rd Year\DES25P0\Wagga Technology\Wagga Technology\obj\Debug\net5.0-windows\Wagga Technology.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\3rd Year\DES25P0\Wagga Technology\Wagga Technology\obj\Debug\net5.0-windows\Wagga Technology.AssemblyInfoInputs.cache
+E:\PROJECTS\3rd Year\DES25P0\Wagga Technology\Wagga Technology\obj\Debug\net5.0-windows\Wagga Technology.AssemblyInfo.vb
+E:\PROJECTS\3rd Year\DES25P0\Wagga Technology\Wagga Technology\obj\Debug\net5.0-windows\Wagga Technology.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\3rd Year\DES25P0\Wagga Technology\Wagga Technology\obj\Debug\net5.0-windows\Wagga Technology.dll
+E:\PROJECTS\3rd Year\DES25P0\Wagga Technology\Wagga Technology\obj\Debug\net5.0-windows\ref\Wagga Technology.dll
+E:\PROJECTS\3rd Year\DES25P0\Wagga Technology\Wagga Technology\obj\Debug\net5.0-windows\Wagga Technology.pdb
+E:\PROJECTS\3rd Year\DES25P0\Wagga Technology\Wagga Technology\obj\Debug\net5.0-windows\Wagga Technology.genruntimeconfig.cache

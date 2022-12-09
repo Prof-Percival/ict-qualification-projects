@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Soccer Team PercDisplayer", "Soccer Team PercDisplayer\Soccer Team PercDisplayer.vbproj", "{CB1A0DAB-DF89-4376-BA90-BB259DFFBBBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB1A0DAB-DF89-4376-BA90-BB259DFFBBBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB1A0DAB-DF89-4376-BA90-BB259DFFBBBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB1A0DAB-DF89-4376-BA90-BB259DFFBBBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB1A0DAB-DF89-4376-BA90-BB259DFFBBBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCFD1916-7DDD-410E-845C-5AB9D29033E6}
+	EndGlobalSection
+EndGlobal

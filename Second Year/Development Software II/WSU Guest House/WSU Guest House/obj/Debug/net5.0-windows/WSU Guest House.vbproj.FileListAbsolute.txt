@@ -1,0 +1,18 @@
+E:\PROJECTS\DES25P0\WSU Guest House\WSU Guest House\bin\Debug\net5.0-windows\WSU Guest House.exe
+E:\PROJECTS\DES25P0\WSU Guest House\WSU Guest House\bin\Debug\net5.0-windows\WSU Guest House.deps.json
+E:\PROJECTS\DES25P0\WSU Guest House\WSU Guest House\bin\Debug\net5.0-windows\WSU Guest House.runtimeconfig.json
+E:\PROJECTS\DES25P0\WSU Guest House\WSU Guest House\bin\Debug\net5.0-windows\WSU Guest House.runtimeconfig.dev.json
+E:\PROJECTS\DES25P0\WSU Guest House\WSU Guest House\bin\Debug\net5.0-windows\WSU Guest House.dll
+E:\PROJECTS\DES25P0\WSU Guest House\WSU Guest House\bin\Debug\net5.0-windows\ref\WSU Guest House.dll
+E:\PROJECTS\DES25P0\WSU Guest House\WSU Guest House\bin\Debug\net5.0-windows\WSU Guest House.pdb
+E:\PROJECTS\DES25P0\WSU Guest House\WSU Guest House\obj\Debug\net5.0-windows\WSU Guest House.vbproj.AssemblyReference.cache
+E:\PROJECTS\DES25P0\WSU Guest House\WSU Guest House\obj\Debug\net5.0-windows\WSU_Guest_House.Form1.resources
+E:\PROJECTS\DES25P0\WSU Guest House\WSU Guest House\obj\Debug\net5.0-windows\WSU Guest House.vbproj.GenerateResource.cache
+E:\PROJECTS\DES25P0\WSU Guest House\WSU Guest House\obj\Debug\net5.0-windows\WSU Guest House.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\DES25P0\WSU Guest House\WSU Guest House\obj\Debug\net5.0-windows\WSU Guest House.AssemblyInfoInputs.cache
+E:\PROJECTS\DES25P0\WSU Guest House\WSU Guest House\obj\Debug\net5.0-windows\WSU Guest House.AssemblyInfo.vb
+E:\PROJECTS\DES25P0\WSU Guest House\WSU Guest House\obj\Debug\net5.0-windows\WSU Guest House.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\DES25P0\WSU Guest House\WSU Guest House\obj\Debug\net5.0-windows\WSU Guest House.dll
+E:\PROJECTS\DES25P0\WSU Guest House\WSU Guest House\obj\Debug\net5.0-windows\ref\WSU Guest House.dll
+E:\PROJECTS\DES25P0\WSU Guest House\WSU Guest House\obj\Debug\net5.0-windows\WSU Guest House.pdb
+E:\PROJECTS\DES25P0\WSU Guest House\WSU Guest House\obj\Debug\net5.0-windows\WSU Guest House.genruntimeconfig.cache

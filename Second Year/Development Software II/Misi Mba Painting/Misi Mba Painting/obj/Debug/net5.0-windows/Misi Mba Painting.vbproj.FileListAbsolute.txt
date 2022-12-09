@@ -1,0 +1,18 @@
+E:\PROJECTS\DES25P0\Misi Mba Painting\Misi Mba Painting\bin\Debug\net5.0-windows\Misi Mba Painting.exe
+E:\PROJECTS\DES25P0\Misi Mba Painting\Misi Mba Painting\bin\Debug\net5.0-windows\Misi Mba Painting.deps.json
+E:\PROJECTS\DES25P0\Misi Mba Painting\Misi Mba Painting\bin\Debug\net5.0-windows\Misi Mba Painting.runtimeconfig.json
+E:\PROJECTS\DES25P0\Misi Mba Painting\Misi Mba Painting\bin\Debug\net5.0-windows\Misi Mba Painting.runtimeconfig.dev.json
+E:\PROJECTS\DES25P0\Misi Mba Painting\Misi Mba Painting\bin\Debug\net5.0-windows\Misi Mba Painting.dll
+E:\PROJECTS\DES25P0\Misi Mba Painting\Misi Mba Painting\bin\Debug\net5.0-windows\ref\Misi Mba Painting.dll
+E:\PROJECTS\DES25P0\Misi Mba Painting\Misi Mba Painting\bin\Debug\net5.0-windows\Misi Mba Painting.pdb
+E:\PROJECTS\DES25P0\Misi Mba Painting\Misi Mba Painting\obj\Debug\net5.0-windows\Misi Mba Painting.vbproj.AssemblyReference.cache
+E:\PROJECTS\DES25P0\Misi Mba Painting\Misi Mba Painting\obj\Debug\net5.0-windows\Misi_Mba_Painting.Form1.resources
+E:\PROJECTS\DES25P0\Misi Mba Painting\Misi Mba Painting\obj\Debug\net5.0-windows\Misi Mba Painting.vbproj.GenerateResource.cache
+E:\PROJECTS\DES25P0\Misi Mba Painting\Misi Mba Painting\obj\Debug\net5.0-windows\Misi Mba Painting.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\DES25P0\Misi Mba Painting\Misi Mba Painting\obj\Debug\net5.0-windows\Misi Mba Painting.AssemblyInfoInputs.cache
+E:\PROJECTS\DES25P0\Misi Mba Painting\Misi Mba Painting\obj\Debug\net5.0-windows\Misi Mba Painting.AssemblyInfo.vb
+E:\PROJECTS\DES25P0\Misi Mba Painting\Misi Mba Painting\obj\Debug\net5.0-windows\Misi Mba Painting.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\DES25P0\Misi Mba Painting\Misi Mba Painting\obj\Debug\net5.0-windows\Misi Mba Painting.dll
+E:\PROJECTS\DES25P0\Misi Mba Painting\Misi Mba Painting\obj\Debug\net5.0-windows\ref\Misi Mba Painting.dll
+E:\PROJECTS\DES25P0\Misi Mba Painting\Misi Mba Painting\obj\Debug\net5.0-windows\Misi Mba Painting.pdb
+E:\PROJECTS\DES25P0\Misi Mba Painting\Misi Mba Painting\obj\Debug\net5.0-windows\Misi Mba Painting.genruntimeconfig.cache

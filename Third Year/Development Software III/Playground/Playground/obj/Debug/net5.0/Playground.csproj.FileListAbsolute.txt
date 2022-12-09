@@ -1,0 +1,16 @@
+H:\PROJECTS\4th Year\DES36P0\Playground\Playground\bin\Debug\net5.0\Playground.exe
+H:\PROJECTS\4th Year\DES36P0\Playground\Playground\bin\Debug\net5.0\Playground.deps.json
+H:\PROJECTS\4th Year\DES36P0\Playground\Playground\bin\Debug\net5.0\Playground.runtimeconfig.json
+H:\PROJECTS\4th Year\DES36P0\Playground\Playground\bin\Debug\net5.0\Playground.runtimeconfig.dev.json
+H:\PROJECTS\4th Year\DES36P0\Playground\Playground\bin\Debug\net5.0\Playground.dll
+H:\PROJECTS\4th Year\DES36P0\Playground\Playground\bin\Debug\net5.0\ref\Playground.dll
+H:\PROJECTS\4th Year\DES36P0\Playground\Playground\bin\Debug\net5.0\Playground.pdb
+H:\PROJECTS\4th Year\DES36P0\Playground\Playground\obj\Debug\net5.0\Playground.csproj.AssemblyReference.cache
+H:\PROJECTS\4th Year\DES36P0\Playground\Playground\obj\Debug\net5.0\Playground.GeneratedMSBuildEditorConfig.editorconfig
+H:\PROJECTS\4th Year\DES36P0\Playground\Playground\obj\Debug\net5.0\Playground.AssemblyInfoInputs.cache
+H:\PROJECTS\4th Year\DES36P0\Playground\Playground\obj\Debug\net5.0\Playground.AssemblyInfo.cs
+H:\PROJECTS\4th Year\DES36P0\Playground\Playground\obj\Debug\net5.0\Playground.csproj.CoreCompileInputs.cache
+H:\PROJECTS\4th Year\DES36P0\Playground\Playground\obj\Debug\net5.0\Playground.dll
+H:\PROJECTS\4th Year\DES36P0\Playground\Playground\obj\Debug\net5.0\ref\Playground.dll
+H:\PROJECTS\4th Year\DES36P0\Playground\Playground\obj\Debug\net5.0\Playground.pdb
+H:\PROJECTS\4th Year\DES36P0\Playground\Playground\obj\Debug\net5.0\Playground.genruntimeconfig.cache

@@ -1,0 +1,63 @@
+E:\PROJECTS\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\Home Affairs.exe
+E:\PROJECTS\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\Home Affairs.deps.json
+E:\PROJECTS\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\Home Affairs.runtimeconfig.json
+E:\PROJECTS\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\Home Affairs.runtimeconfig.dev.json
+E:\PROJECTS\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\Home Affairs.dll
+E:\PROJECTS\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\ref\Home Affairs.dll
+E:\PROJECTS\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\Home Affairs.pdb
+E:\PROJECTS\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\Home Affairs.xml
+E:\PROJECTS\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.vbproj.AssemblyReference.cache
+E:\PROJECTS\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home_Affairs.Form1.resources
+E:\PROJECTS\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home_Affairs.Resources.resources
+E:\PROJECTS\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.vbproj.GenerateResource.cache
+E:\PROJECTS\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.AssemblyInfoInputs.cache
+E:\PROJECTS\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.AssemblyInfo.vb
+E:\PROJECTS\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.dll
+E:\PROJECTS\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\ref\Home Affairs.dll
+E:\PROJECTS\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.xml
+E:\PROJECTS\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.pdb
+E:\PROJECTS\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.genruntimeconfig.cache
+E:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\Home Affairs.exe
+E:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\Home Affairs.deps.json
+E:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\Home Affairs.runtimeconfig.json
+E:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\Home Affairs.runtimeconfig.dev.json
+E:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\Home Affairs.dll
+E:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\ref\Home Affairs.dll
+E:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\Home Affairs.pdb
+E:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\Home Affairs.xml
+E:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.vbproj.AssemblyReference.cache
+E:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home_Affairs.Form1.resources
+E:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home_Affairs.Resources.resources
+E:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.vbproj.GenerateResource.cache
+E:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.AssemblyInfoInputs.cache
+E:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.AssemblyInfo.vb
+E:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.dll
+E:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\ref\Home Affairs.dll
+E:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.xml
+E:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.pdb
+E:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.genruntimeconfig.cache
+F:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\Home Affairs.exe
+F:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\Home Affairs.deps.json
+F:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\Home Affairs.runtimeconfig.json
+F:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\Home Affairs.runtimeconfig.dev.json
+F:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\Home Affairs.dll
+F:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\ref\Home Affairs.dll
+F:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\Home Affairs.pdb
+F:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\bin\Debug\net5.0-windows\Home Affairs.xml
+F:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.vbproj.AssemblyReference.cache
+F:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home_Affairs.Form1.resources
+F:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home_Affairs.Resources.resources
+F:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.vbproj.GenerateResource.cache
+F:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.AssemblyInfoInputs.cache
+F:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.AssemblyInfo.vb
+F:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.vbproj.CoreCompileInputs.cache
+F:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.dll
+F:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\ref\Home Affairs.dll
+F:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.xml
+F:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.pdb
+F:\PROJECTS\3rd Year\DES25P0\Home Affairs\Home Affairs\obj\Debug\net5.0-windows\Home Affairs.genruntimeconfig.cache

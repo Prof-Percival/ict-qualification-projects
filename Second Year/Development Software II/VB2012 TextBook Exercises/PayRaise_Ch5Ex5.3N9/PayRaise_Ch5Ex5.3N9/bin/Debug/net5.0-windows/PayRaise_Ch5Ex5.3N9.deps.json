@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PayRaise_Ch5Ex5.3N9/1.0.0": {
+        "runtime": {
+          "PayRaise_Ch5Ex5.3N9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PayRaise_Ch5Ex5.3N9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

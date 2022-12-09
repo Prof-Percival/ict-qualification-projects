@@ -1,0 +1,18 @@
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E1_Salesmen's Commission Calculator\C6E1_Salesmen's Commission Calculator\obj\Debug\net5.0-windows\C6E1_Salesmen's Commission Calculator.csproj.AssemblyReference.cache
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E1_Salesmen's Commission Calculator\C6E1_Salesmen's Commission Calculator\obj\Debug\net5.0-windows\C6E1_Salesmen_s_Commission_Calculator.Form1.resources
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E1_Salesmen's Commission Calculator\C6E1_Salesmen's Commission Calculator\obj\Debug\net5.0-windows\C6E1_Salesmen's Commission Calculator.csproj.GenerateResource.cache
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E1_Salesmen's Commission Calculator\C6E1_Salesmen's Commission Calculator\obj\Debug\net5.0-windows\C6E1_Salesmen's Commission Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E1_Salesmen's Commission Calculator\C6E1_Salesmen's Commission Calculator\obj\Debug\net5.0-windows\C6E1_Salesmen's Commission Calculator.AssemblyInfoInputs.cache
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E1_Salesmen's Commission Calculator\C6E1_Salesmen's Commission Calculator\obj\Debug\net5.0-windows\C6E1_Salesmen's Commission Calculator.AssemblyInfo.cs
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E1_Salesmen's Commission Calculator\C6E1_Salesmen's Commission Calculator\obj\Debug\net5.0-windows\C6E1_Salesmen's Commission Calculator.csproj.CoreCompileInputs.cache
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E1_Salesmen's Commission Calculator\C6E1_Salesmen's Commission Calculator\bin\Debug\net5.0-windows\C6E1_Salesmen's Commission Calculator.exe
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E1_Salesmen's Commission Calculator\C6E1_Salesmen's Commission Calculator\bin\Debug\net5.0-windows\C6E1_Salesmen's Commission Calculator.deps.json
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E1_Salesmen's Commission Calculator\C6E1_Salesmen's Commission Calculator\bin\Debug\net5.0-windows\C6E1_Salesmen's Commission Calculator.runtimeconfig.json
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E1_Salesmen's Commission Calculator\C6E1_Salesmen's Commission Calculator\bin\Debug\net5.0-windows\C6E1_Salesmen's Commission Calculator.runtimeconfig.dev.json
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E1_Salesmen's Commission Calculator\C6E1_Salesmen's Commission Calculator\bin\Debug\net5.0-windows\C6E1_Salesmen's Commission Calculator.dll
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E1_Salesmen's Commission Calculator\C6E1_Salesmen's Commission Calculator\bin\Debug\net5.0-windows\ref\C6E1_Salesmen's Commission Calculator.dll
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E1_Salesmen's Commission Calculator\C6E1_Salesmen's Commission Calculator\bin\Debug\net5.0-windows\C6E1_Salesmen's Commission Calculator.pdb
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E1_Salesmen's Commission Calculator\C6E1_Salesmen's Commission Calculator\obj\Debug\net5.0-windows\C6E1_Salesmen's Commission Calculator.dll
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E1_Salesmen's Commission Calculator\C6E1_Salesmen's Commission Calculator\obj\Debug\net5.0-windows\ref\C6E1_Salesmen's Commission Calculator.dll
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E1_Salesmen's Commission Calculator\C6E1_Salesmen's Commission Calculator\obj\Debug\net5.0-windows\C6E1_Salesmen's Commission Calculator.pdb
+E:\PROJECTS\4th Year\DES36P0\Chapter 6\C6E1_Salesmen's Commission Calculator\C6E1_Salesmen's Commission Calculator\obj\Debug\net5.0-windows\C6E1_Salesmen's Commission Calculator.genruntimeconfig.cache

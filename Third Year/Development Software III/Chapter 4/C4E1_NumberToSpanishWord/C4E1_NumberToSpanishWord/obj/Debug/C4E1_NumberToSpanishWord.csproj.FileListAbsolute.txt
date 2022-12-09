@@ -1,0 +1,10 @@
+H:\PROJECTS\4th Year\DES36P0\Chapter 4\C4E1_NumberToSpanishWord\C4E1_NumberToSpanishWord\bin\Debug\C4E1_NumberToSpanishWord.exe.config
+H:\PROJECTS\4th Year\DES36P0\Chapter 4\C4E1_NumberToSpanishWord\C4E1_NumberToSpanishWord\bin\Debug\C4E1_NumberToSpanishWord.exe
+H:\PROJECTS\4th Year\DES36P0\Chapter 4\C4E1_NumberToSpanishWord\C4E1_NumberToSpanishWord\bin\Debug\C4E1_NumberToSpanishWord.pdb
+H:\PROJECTS\4th Year\DES36P0\Chapter 4\C4E1_NumberToSpanishWord\C4E1_NumberToSpanishWord\obj\Debug\C4E1_NumberToSpanishWord.csproj.AssemblyReference.cache
+H:\PROJECTS\4th Year\DES36P0\Chapter 4\C4E1_NumberToSpanishWord\C4E1_NumberToSpanishWord\obj\Debug\C4E1_NumberToSpanishWord.Form1.resources
+H:\PROJECTS\4th Year\DES36P0\Chapter 4\C4E1_NumberToSpanishWord\C4E1_NumberToSpanishWord\obj\Debug\C4E1_NumberToSpanishWord.Properties.Resources.resources
+H:\PROJECTS\4th Year\DES36P0\Chapter 4\C4E1_NumberToSpanishWord\C4E1_NumberToSpanishWord\obj\Debug\C4E1_NumberToSpanishWord.csproj.GenerateResource.cache
+H:\PROJECTS\4th Year\DES36P0\Chapter 4\C4E1_NumberToSpanishWord\C4E1_NumberToSpanishWord\obj\Debug\C4E1_NumberToSpanishWord.csproj.CoreCompileInputs.cache
+H:\PROJECTS\4th Year\DES36P0\Chapter 4\C4E1_NumberToSpanishWord\C4E1_NumberToSpanishWord\obj\Debug\C4E1_NumberToSpanishWord.exe
+H:\PROJECTS\4th Year\DES36P0\Chapter 4\C4E1_NumberToSpanishWord\C4E1_NumberToSpanishWord\obj\Debug\C4E1_NumberToSpanishWord.pdb
